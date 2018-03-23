@@ -1,0 +1,12 @@
+<stocks>
+  <company name="RB">
+    <item name="CCH">10</item>
+    <item name="CCH2">160</item>
+    <item name="MM2">7</item>
+    <item name="cch">20</item>
+  </company>
+  <company name="TBB">
+    <item name="SCHOOL BAG">20</item>
+    <item name="MC">210</item>
+  </company>
+</stocks>

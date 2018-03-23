@@ -1,0 +1,353 @@
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\Accounts.exe.config
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\Accounts.exe
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\Accounts.pdb
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.Form1.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.Properties.Resources.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.exe
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.pdb
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\Microsoft.reportviewer.winforms.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\ar\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\bg\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\ca\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\cs\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\da\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\el\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\et\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\eu\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\fi\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\gl\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\he\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\hi\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\hr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\hu\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\id\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\kk\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\lt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\lv\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\ms\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\nl\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\no\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\pl\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\pt-PT\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\ro\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\sk\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\sl\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\sr-cyrl\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\sr-latn\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\sv\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\th\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\tr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\uk\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\vi\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\zh-CHS\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\bin\Debug\zh-CHT\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.AddDeal.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.stocks.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.NewStock.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.Update.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.Company_Manager.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.recieve.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.Lesasure.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.Clients.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.balSheet.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.StockSheet.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.DailyRPT.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.Backup.resources
+C:\Users\admin\source\repos\Accounts\Accounts\obj\Debug\Accounts.Password.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\Accounts.exe.config
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\Accounts.exe
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\Accounts.pdb
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\ar\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\bg\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\ca\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\cs\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\da\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\el\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\et\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\eu\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\fi\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\gl\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\he\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\hi\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\hr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\hu\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\id\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\kk\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\lt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\lv\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\ms\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\nl\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\no\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\pl\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\pt-PT\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\ro\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\sk\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\sl\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\sr-cyrl\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\sr-latn\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\sv\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\th\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\tr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\uk\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\vi\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\zh-CHS\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\bin\Debug\zh-CHT\Microsoft.SqlServer.Types.resources.dll
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.csprojResolveAssemblyReference.cache
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.AddDeal.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.Backup.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.balSheet.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.Clients.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.Company_Manager.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.DailyRPT.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.Form1.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.Lesasure.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.NewStock.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.Password.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.Properties.Resources.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.recieve.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.stocks.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.StockSheet.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.Update.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.exe
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.pdb
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.category_manager.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.New_Client.resources
+C:\Users\H S Umer Farooq\Desktop\New folder (2)\Accounts\obj\Debug\Accounts.clint_update.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\Accounts.exe.config
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\Accounts.exe
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\Accounts.pdb
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\ar\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\bg\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\ca\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\cs\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\da\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\el\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\et\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\eu\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\fi\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\gl\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\he\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\hi\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\hr\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\hu\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\id\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\kk\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\lt\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\lv\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\ms\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\nl\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\no\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\pl\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\pt-PT\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\ro\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\sk\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\sl\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\sr-cyrl\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\sr-latn\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\sv\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\th\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\tr\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\uk\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\vi\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\zh-CHS\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\bin\Debug\zh-CHT\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.csprojResolveAssemblyReference.cache
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.AddDeal.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.Backup.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.balSheet.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.category_manager.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.Clients.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.clint_update.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.Company_Manager.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.DailyRPT.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.Form1.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.Lesasure.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.New_Client.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.NewStock.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.Password.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.Properties.Resources.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.recieve.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.stocks.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.StockSheet.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.Update.resources
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.exe
+F:\Tabish\Softwares\New folder (2)\Accounts\obj\Debug\Accounts.pdb
+D:\New folder (2)\Accounts\bin\Debug\Accounts.exe.config
+D:\New folder (2)\Accounts\bin\Debug\Accounts.exe
+D:\New folder (2)\Accounts\bin\Debug\Accounts.pdb
+D:\New folder (2)\Accounts\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\New folder (2)\Accounts\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\New folder (2)\Accounts\bin\Debug\ar\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\bg\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\ca\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\cs\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\da\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\el\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\et\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\eu\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\fi\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\gl\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\he\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\hi\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\hr\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\hu\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\id\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\kk\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\lt\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\lv\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\ms\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\nl\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\no\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\pl\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\pt-PT\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\ro\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\sk\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\sl\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\sr-cyrl\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\sr-latn\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\sv\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\th\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\tr\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\uk\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\vi\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\zh-CHS\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\bin\Debug\zh-CHT\Microsoft.SqlServer.Types.resources.dll
+D:\New folder (2)\Accounts\obj\Debug\Accounts.csprojResolveAssemblyReference.cache
+D:\New folder (2)\Accounts\obj\Debug\Accounts.AddDeal.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.Backup.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.balSheet.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.category_manager.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.Clients.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.clint_update.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.Company_Manager.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.DailyRPT.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.Form1.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.Lesasure.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.New_Client.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.NewStock.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.Password.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.Properties.Resources.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.recieve.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.stocks.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.StockSheet.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.Update.resources
+D:\New folder (2)\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+D:\New folder (2)\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Accounts\obj\Debug\Accounts.exe
+D:\New folder (2)\Accounts\obj\Debug\Accounts.pdb
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\Accounts.exe.config
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\Accounts.exe
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\Accounts.pdb
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\ar\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\bg\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\ca\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\cs\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\da\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\el\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\et\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\eu\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\fi\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\gl\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\he\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\hi\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\hr\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\hu\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\id\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\kk\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\lt\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\lv\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\ms\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\nl\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\no\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\pl\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\pt-PT\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\ro\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\sk\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\sl\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\sr-cyrl\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\sr-latn\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\sv\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\th\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\tr\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\uk\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\vi\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\zh-CHS\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\bin\Debug\zh-CHT\Microsoft.SqlServer.Types.resources.dll
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.csprojResolveAssemblyReference.cache
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.AddDeal.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.Backup.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.balSheet.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.category_manager.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.Clients.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.clint_update.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.Company_Manager.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.DailyRPT.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.Form1.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.Lesasure.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.New_Client.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.NewStock.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.Password.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.Properties.Resources.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.recieve.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.stocks.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.StockSheet.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.Update.resources
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.exe
+F:\Tabish\Softwares\leather gloves\Accounts\obj\Debug\Accounts.pdb

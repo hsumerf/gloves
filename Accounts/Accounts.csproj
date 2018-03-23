@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB72D966-CF63-4E55-8CB9-843406353C27}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Accounts</RootNamespace>
+    <AssemblyName>Accounts</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>folder_FeP_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.reportviewer.winforms">
+      <HintPath>..\..\..\..\..\..\Program Files\Microsoft Office\Office16\ADDINS\PowerPivot Excel Add-in\Microsoft.reportviewer.winforms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddDeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDeal.Designer.cs">
+      <DependentUpon>AddDeal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Backup.Designer.cs">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="balSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="balSheet.Designer.cs">
+      <DependentUpon>balSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="category manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="category manager.Designer.cs">
+      <DependentUpon>category manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clients.Designer.cs">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clint update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clint update.Designer.cs">
+      <DependentUpon>clint update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Company Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company Manager.Designer.cs">
+      <DependentUpon>Company Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DailyRPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DailyRPT.Designer.cs">
+      <DependentUpon>DailyRPT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lesasure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lesasure.Designer.cs">
+      <DependentUpon>Lesasure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New Client.Designer.cs">
+      <DependentUpon>New Client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewStock.Designer.cs">
+      <DependentUpon>NewStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Password.Designer.cs">
+      <DependentUpon>Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="recieve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recieve.Designer.cs">
+      <DependentUpon>recieve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sorter.cs" />
+    <Compile Include="stocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stocks.Designer.cs">
+      <DependentUpon>stocks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockSheet.Designer.cs">
+      <DependentUpon>StockSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update.Designer.cs">
+      <DependentUpon>Update.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddDeal.resx">
+      <DependentUpon>AddDeal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Backup.resx">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="balSheet.resx">
+      <DependentUpon>balSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="category manager.resx">
+      <DependentUpon>category manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clients.resx">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clint update.resx">
+      <DependentUpon>clint update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company Manager.resx">
+      <DependentUpon>Company Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyRPT.resx">
+      <DependentUpon>DailyRPT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lesasure.resx">
+      <DependentUpon>Lesasure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New Client.resx">
+      <DependentUpon>New Client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewStock.resx">
+      <DependentUpon>NewStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Password.resx">
+      <DependentUpon>Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="recieve.resx">
+      <DependentUpon>recieve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stocks.resx">
+      <DependentUpon>stocks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockSheet.resx">
+      <DependentUpon>StockSheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update.resx">
+      <DependentUpon>Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-multiply-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-math-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-file-16 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-file-16 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-ledger-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-ledger-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-ledger-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cash-in-hand-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-paper-money-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-product-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-product-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-product-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-product-601.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bill-60 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bill-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delivery-57.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-planner-57.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-person-57.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-product-602.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-data-backup-57.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-upload-57.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-download-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-upload-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="folder_FeP_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

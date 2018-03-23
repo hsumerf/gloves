@@ -1,0 +1,236 @@
+<stocks>
+  <company name="MGM">
+    <item name="CTWJ">3</item>
+    <item name="CWW">56</item>
+  </company>
+  <company name="OSAKA">
+    <item name="TEX-L">72</item>
+    <item name="CWW">236</item>
+    <item name="CSW">14</item>
+    <item name="CTH">45</item>
+    <item name="CBLK">5</item>
+    <item name="CTL">54</item>
+    <item name="LCS">0</item>
+    <item name="LPS">0</item>
+    <item name="MBLK">10</item>
+    <item name="M-SUIT">3</item>
+    <item name="CZJW">5</item>
+  </company>
+  <company name="Local">
+    <item name="Shirt">0</item>
+    <item name="QC">3</item>
+    <item name="LLS">13</item>
+    <item name="Wcap">13</item>
+    <item name="VVT">0</item>
+    <item name="MBLK">0</item>
+    <item name="CZJW">2</item>
+    <item name="WBLK">0</item>
+    <item name="LJ">1</item>
+    <item name="MOC">6</item>
+    <item name="Socks">8</item>
+    <item name="HHR">0</item>
+    <item name="CCP">5</item>
+    <item name="LPD">0</item>
+    <item name="ATWC">2</item>
+    <item name="Joging-p">11</item>
+    <item name="CBLK">1</item>
+    <item name="Hood">0</item>
+    <item name="Azjw">2</item>
+    <item name="TB">15</item>
+    <item name="SEAT COVER">0</item>
+    <item name="SOCKS n">6</item>
+    <item name="BABY SHIPER">0</item>
+    <item name="ATWN">0</item>
+    <item name="TEXT">0</item>
+    <item name="KTW">0</item>
+    <item name="APP">0</item>
+    <item name="HHR P">32</item>
+    <item name="Soft Toys">0</item>
+  </company>
+  <company name="Vigo">
+    <item name="MTS">5</item>
+    <item name="CTL">15</item>
+    <item name="CWW">45</item>
+  </company>
+  <company name="RB">
+    <item name="KTW">0</item>
+    <item name="MBLK">0</item>
+  </company>
+  <company name="DBK">
+    <item name="KTW">0</item>
+    <item name="APK">3</item>
+    <item name="MSJW">1</item>
+    <item name="MSJBLAK">0</item>
+    <item name="CPK">1</item>
+    <item name="CWW">2</item>
+    <item name="MSHIRT-B">0</item>
+    <item name="CPKPNT">0</item>
+    <item name="CZJW">3</item>
+    <item name="CTW">3</item>
+    <item name="VVT LADY">0</item>
+    <item name="CW 1PC">1</item>
+    <item name="CH ROMPER">1</item>
+    <item name="CVVT">2</item>
+    <item name="AZJW">28</item>
+    <item name="BAG-BMIX">0</item>
+    <item name="SBAG">0</item>
+    <item name="MBLK">0</item>
+    <item name="WBLK">0</item>
+    <item name="QBLK-A">0</item>
+    <item name="QBLK-B">0</item>
+    <item name="MUFLER">0</item>
+    <item name="CTL">0</item>
+    <item name="CTH">0</item>
+    <item name="CPT">0</item>
+    <item name="RCPT">0</item>
+    <item name="TEXT-L">0</item>
+    <item name="ATWN">0</item>
+    <item name="COTN COAT">0</item>
+    <item name="MOC">5</item>
+    <item name="CSW">6</item>
+    <item name="APP">5</item>
+    <item name="AFL">4</item>
+    <item name="DBK-B">1</item>
+    <item name="BLK-MB">0</item>
+  </company>
+  <company name="UHT">
+    <item name="MBLK">0</item>
+    <item name="TB">24</item>
+  </company>
+  <company name="AT">
+    <item name="Cvelv">0</item>
+    <item name="MOC">1</item>
+    <item name="MTS">0</item>
+    <item name="HHR">1</item>
+  </company>
+  <company name="SB">
+    <item name="MOC">1</item>
+    <item name="KTW">1</item>
+    <item name="TEX-H">3</item>
+    <item name="AFL">7</item>
+  </company>
+  <company name="SK">
+    <item name="AZJW">4</item>
+    <item name="CWW">10</item>
+    <item name="MTS">11</item>
+    <item name="RN">19</item>
+    <item name="QC">9</item>
+    <item name="TEX-H">7</item>
+    <item name="Leging">2</item>
+    <item name="MP">2</item>
+    <item name="KTW">2</item>
+    <item name="QBLK">3</item>
+  </company>
+  <company name="Bravo">
+    <item name="SBLK">2</item>
+    <item name="CTL">2</item>
+  </company>
+  <company name="IK">
+    <item name="TB">2</item>
+    <item name="L-Bag">8</item>
+  </company>
+  <company name="Hi-top">
+    <item name="QBLK-B">0</item>
+    <item name="QC">0</item>
+    <item name="Shirt">0</item>
+    <item name="Cpk">1</item>
+    <item name="Apk">1</item>
+    <item name="Azjw">0</item>
+    <item name="KTW">0</item>
+    <item name="MS">0</item>
+    <item name="LOC">10</item>
+    <item name="Tex-L">0</item>
+    <item name="TB">0</item>
+    <item name="RCPT">0</item>
+  </company>
+  <company name="Fanta">
+    <item name="CSWT">0</item>
+    <item name="CTL">22</item>
+    <item name="Nighty">30</item>
+  </company>
+  <company name="SD">
+    <item name="4PCKT JCKT">5</item>
+    <item name="60 JCKT">249</item>
+    <item name="CT JCTKT">26</item>
+    <item name="INR FUR JCKT">0</item>
+    <item name="OVERALL">0</item>
+    <item name="SKI PNT">49</item>
+    <item name="STRCHBL JCKT">0</item>
+    <item name="WOOL JCKT 50PC">11</item>
+    <item name="W SOCKS">35</item>
+    <item name="VEST COAT">2</item>
+    <item name="LONG COAT">1</item>
+    <item name="SPORT">228</item>
+    <item name="CEP">31</item>
+    <item name="SLNK PNT">15</item>
+    <item name="SPCL VEST">4</item>
+    <item name="TRPCL JCKT">88</item>
+    <item name="MO TSHIRT">20</item>
+    <item name="ANORAK LC">8</item>
+    <item name="L-COMFTR">1</item>
+    <item name="MSDCOAT">6</item>
+    <item name="MIX">5</item>
+    <item name="CASHMIRA">11</item>
+    <item name="W SKIRT PNT">6</item>
+    <item name="LL COAT">0</item>
+    <item name="QBLK">3</item>
+    <item name="TCOVER">2</item>
+    <item name="BED SPRD">2</item>
+    <item name="MEN CORD">1</item>
+    <item name="BED COVER">29</item>
+  </company>
+  <company name="Hayat">
+    <item name="HHR">0</item>
+  </company>
+  <company name="Japan">
+    <item name="QBLK UPER">610</item>
+    <item name="QBLK SA">667</item>
+    <item name="QBLK YSN">7628</item>
+    <item name="QBLK AZZ">2000</item>
+  </company>
+  <company name="WT">
+    <item name="MIX BAG">0</item>
+  </company>
+  <company name="WCS">
+    <item name="BRA">0</item>
+    <item name="ABS BLK">24</item>
+    <item name="CCR">3</item>
+    <item name="FURCOAT">1</item>
+    <item name="LCP">0</item>
+    <item name="LHHR">1</item>
+    <item name="LPP">2</item>
+    <item name="L UNDRWR">0</item>
+    <item name="Plastc coat">2</item>
+    <item name="Shepskin">2</item>
+    <item name="M SHIRT">0</item>
+    <item name="SILK N RUM">8</item>
+    <item name="VVT CURT">1</item>
+    <item name="VVT R">3</item>
+    <item name="WAX JCKT">1</item>
+    <item name="PLASTIC">49</item>
+    <item name="CORD JAKT">1</item>
+    <item name="CBLK">1</item>
+  </company>
+  <company name="SONY">
+    <item name="B&amp;B,ELCT">0</item>
+    <item name="QBLK">0</item>
+    <item name="MEN JACKET">0</item>
+    <item name="LP">0</item>
+    <item name="FLEECE">0</item>
+    <item name="MAT">0</item>
+  </company>
+  <company name="AALI">
+    <item name="MBAG">0</item>
+  </company>
+  <company name="F&amp;H">
+    <item name="MIXI TEMS">0</item>
+    <item name="TOYS">0</item>
+    <item name="HHR">0</item>
+    <item name="BAR BACK">0</item>
+    <item name="ELECTRONIC">0</item>
+  </company>
+  <company name="JSOO">
+    <item name="HTX">143</item>
+  </company>
+  <company name="LUCKY" />
+</stocks>

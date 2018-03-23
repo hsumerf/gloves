@@ -1,0 +1,7891 @@
+<all>
+  <person id="0">
+    <date>01/01/2018</date>
+    <name>Cash Customer</name>
+    <company>RB</company>
+    <item>WBLK</item>
+    <qty>1</qty>
+    <peritem>13000</peritem>
+    <total>13000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="1">
+    <date>01/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>13000</peritem>
+    <total>0</total>
+    <recieve>13000</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="2">
+    <date>31/12/2017</date>
+    <name>SAEED KHAN LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>750</peritem>
+    <total>750</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="3">
+    <date>31/12/2017</date>
+    <name>NAZEER BAHAWALPUR</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>416100</peritem>
+    <total>416100</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="4">
+    <date>31/12/2017</date>
+    <name>IBRAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>854630</peritem>
+    <total>854630</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="5">
+    <date>31/12/2017</date>
+    <name>AAMIL BABA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>6000</peritem>
+    <total>6000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="6">
+    <date>31/12/2017</date>
+    <name>IMRAN LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>86860</peritem>
+    <total>86860</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="7">
+    <date>31/12/2017</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>544550</peritem>
+    <total>544550</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="8">
+    <date>31/12/2017</date>
+    <name>SHEIKH JAWAID LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>41265</peritem>
+    <total>41265</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="9">
+    <date>31/12/2017</date>
+    <name>BISMIALLAH JAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1041</peritem>
+    <total>1041</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="10">
+    <date>31/12/2017</date>
+    <name>ASHIQ LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>94495</peritem>
+    <total>94495</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="11">
+    <date>31/12/2017</date>
+    <name>SAQIB NAEEM LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>36350</peritem>
+    <total>36350</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="12">
+    <date>31/12/2017</date>
+    <name>TANVEER AHMED</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>108600</peritem>
+    <total>108600</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="13">
+    <date>31/12/2017</date>
+    <name>GHAFOOR NOOR MUHAMMAD</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>15870</peritem>
+    <total>15870</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="14">
+    <date>31/12/2017</date>
+    <name>GOHAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>76940</peritem>
+    <total>0</total>
+    <recieve>76940</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="15">
+    <date>31/12/2017</date>
+    <name>ADIL LIGHT HOUSE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>14000</peritem>
+    <total>14000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="16">
+    <date>31/12/2017</date>
+    <name>SAEED KHAN PINDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>840600</peritem>
+    <total>840600</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="17">
+    <date>31/12/2017</date>
+    <name>SIDDIQ LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>180600</peritem>
+    <total>180600</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="18">
+    <date>31/12/2017</date>
+    <name>IDREES GILGIT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2665</peritem>
+    <total>2665</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="19">
+    <date>31/12/2017</date>
+    <name>ALLAH GUL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>8000</peritem>
+    <total>8000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="20">
+    <date>31/12/2017</date>
+    <name>RIAZ PINDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>157290</peritem>
+    <total>157290</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="21">
+    <date>31/12/2017</date>
+    <name>KHALID PESHAWAR</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>6760</peritem>
+    <total>6760</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="22">
+    <date>31/12/2017</date>
+    <name>AMJAD LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>73010</peritem>
+    <total>73010</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="23">
+    <date>31/12/2017</date>
+    <name>NADEEM YASEEN GUJRANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>536060</peritem>
+    <total>536060</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="24">
+    <date>31/12/2017</date>
+    <name>MUHAMMAD RASOOL KHAN </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>167350</peritem>
+    <total>167350</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="25">
+    <date>31/12/2017</date>
+    <name>SARWAR HANIF</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>187950</peritem>
+    <total>187950</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="26">
+    <date>31/12/2017</date>
+    <name>SHAFIQ BALDIA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>43800</peritem>
+    <total>43800</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="27">
+    <date>31/12/2017</date>
+    <name>YOUNIS MEHSOOD</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>510500</peritem>
+    <total>510500</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="28">
+    <date>31/12/2017</date>
+    <name>SALEEM LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>39720</peritem>
+    <total>39720</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="29">
+    <date>31/12/2017</date>
+    <name>HAFIZ NAZIM LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>11810</peritem>
+    <total>11810</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="30">
+    <date>31/12/2017</date>
+    <name>BACHA KHAN LIGHT HOUSE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>333000</peritem>
+    <total>333000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="31">
+    <date>31/12/2017</date>
+    <name>AQIB FAISALABAD</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>612280</peritem>
+    <total>612280</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="32">
+    <date>31/12/2017</date>
+    <name>SHAH ALAM JAGLOT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1000</peritem>
+    <total>0</total>
+    <recieve>1000</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="33">
+    <date>31/12/2017</date>
+    <name>SADIQ DERA GHAZI KHAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>401150</peritem>
+    <total>401150</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="34">
+    <date>31/12/2017</date>
+    <name>ASAD LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>556005</peritem>
+    <total>556005</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="35">
+    <date>31/12/2017</date>
+    <name>AMAN SAHIWAL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3300</peritem>
+    <total>3300</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="36">
+    <date>31/12/2017</date>
+    <name>ZABIULLAH</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>142400</peritem>
+    <total>142400</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="37">
+    <date>31/12/2017</date>
+    <name>MURAAD CPT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>220550</peritem>
+    <total>220550</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="38">
+    <date>31/12/2017</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>604370</peritem>
+    <total>604370</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="39">
+    <date>31/12/2017</date>
+    <name>ASHIQ BOREWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>195970</peritem>
+    <total>195970</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="40">
+    <date>31/12/2017</date>
+    <name>FAZAL UR REHMAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3830</peritem>
+    <total>3830</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="41">
+    <date>31/12/2017</date>
+    <name>ASLAM LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>109470</peritem>
+    <total>109470</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="42">
+    <date>31/12/2017</date>
+    <name>AHMED SALOO</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>348700</peritem>
+    <total>348700</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="43">
+    <date>31/12/2017</date>
+    <name>KAMRAN MELSI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2000</peritem>
+    <total>2000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="44">
+    <date>31/12/2017</date>
+    <name>MUHAMMAD SAJJID L8</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>5000</peritem>
+    <total>5000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="45">
+    <date>31/12/2017</date>
+    <name>DILAWAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>69700</peritem>
+    <total>69700</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="46">
+    <date>31/12/2017</date>
+    <name>SHAKHI JAN HYDERABAD</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>4580</peritem>
+    <total>4580</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="47">
+    <date>31/12/2017</date>
+    <name>NIAZ HALF COAT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>5000</peritem>
+    <total>0</total>
+    <recieve>5000</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="48">
+    <date>31/12/2017</date>
+    <name>WASEEM PINDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>96500</peritem>
+    <total>96500</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="49">
+    <date>31/12/2017</date>
+    <name>NAWAZ KHAN </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100620</peritem>
+    <total>100620</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="50">
+    <date>31/12/2017</date>
+    <name>AYUB KHAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>98000</peritem>
+    <total>98000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="51">
+    <date>31/12/2017</date>
+    <name>ISHAQ LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>249900</peritem>
+    <total>249900</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="52">
+    <date>31/12/2017</date>
+    <name>MEER BAAZ </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>47000</peritem>
+    <total>47000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="53">
+    <date>31/12/2017</date>
+    <name>DAWOOD BORI WALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>7000</peritem>
+    <total>7000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="54">
+    <date>31/12/2017</date>
+    <name>AMIR LIGHT HOUSE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>78000</peritem>
+    <total>78000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="55">
+    <date>31/12/2017</date>
+    <name>SHAHZADI MUZAMMIL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>129170</peritem>
+    <total>129170</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="56">
+    <date>31/12/2017</date>
+    <name>SULTAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>23025</peritem>
+    <total>23025</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="57">
+    <date>31/12/2017</date>
+    <name>SAJAWAL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>15000</peritem>
+    <total>15000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="58">
+    <date>31/12/2017</date>
+    <name>SYED KHALID SHAH</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>26600</peritem>
+    <total>26600</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="59">
+    <date>31/12/2017</date>
+    <name>WALI SHAH TOORI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>123000</peritem>
+    <total>123000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="60">
+    <date>31/12/2017</date>
+    <name>GUL BADIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>16500</peritem>
+    <total>16500</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="61">
+    <date>31/12/2017</date>
+    <name>GHULAB SHAH</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>115000</peritem>
+    <total>115000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="62">
+    <date>31/12/2017</date>
+    <name>HAQ NAWAZ KARACHI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>281700</peritem>
+    <total>281700</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="63">
+    <date>31/12/2017</date>
+    <name>SARWAR SADDAR</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>13000</peritem>
+    <total>13000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="64">
+    <date>31/12/2017</date>
+    <name>GHAFOOR METROVAIL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2000</peritem>
+    <total>2000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="65">
+    <date>31/12/2017</date>
+    <name>ESSA KHAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>5000</peritem>
+    <total>5000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="66">
+    <date>31/12/2017</date>
+    <name>JUNAID HUR CENTER</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>182500</peritem>
+    <total>182500</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="67">
+    <date>31/12/2017</date>
+    <name>SAEED MEHSOOD</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>108500</peritem>
+    <total>108500</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="68">
+    <date>31/12/2017</date>
+    <name>ZAHIR SHAH</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>86000</peritem>
+    <total>86000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="69">
+    <date>31/12/2017</date>
+    <name>AQEEL LIGHTHOUSE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>88100</peritem>
+    <total>88100</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="70">
+    <date>31/12/2017</date>
+    <name>JAHANGIR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>66760</peritem>
+    <total>66760</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="71">
+    <date>31/12/2017</date>
+    <name>SAQIB LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>9150</peritem>
+    <total>0</total>
+    <recieve>9150</recieve>
+    <details>PREVIOUSE BALANCE</details>
+  </person>
+  <person id="72">
+    <date>01/01/2018</date>
+    <name>ISHAQ LAHORE</name>
+    <company>Hayat</company>
+    <item>HHR</item>
+    <qty>8395</qty>
+    <peritem>32</peritem>
+    <total>268640</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="73">
+    <date>01/01/2018</date>
+    <name>ISHAQ LAHORE</name>
+    <company>Hayat</company>
+    <item>HHR</item>
+    <qty>9505</qty>
+    <peritem>32</peritem>
+    <total>304160</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="74">
+    <date>01/01/2018</date>
+    <name>ISHAQ LAHORE</name>
+    <company>Hayat</company>
+    <item>HHR</item>
+    <qty>8845</qty>
+    <peritem>32</peritem>
+    <total>283040</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="75">
+    <date>01/01/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>100000</total>
+    <recieve>0</recieve>
+    <details>CHQ RETURN faisal bank</details>
+  </person>
+  <person id="76">
+    <date>01/01/2018</date>
+    <name>SULTAN</name>
+    <company>Hi-top</company>
+    <item>QC</item>
+    <qty>1</qty>
+    <peritem>11000</peritem>
+    <total>11000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="77">
+    <date>02/01/2018</date>
+    <name>ESSA KHAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>5000</peritem>
+    <total>0</total>
+    <recieve>5000</recieve>
+    <details>CASH RECEIVED</details>
+  </person>
+  <person id="78">
+    <date>02/01/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>ONLINE MEEZAN</details>
+  </person>
+  <person id="79">
+    <date>02/01/2018</date>
+    <name>ZABIULLAH</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>115500</peritem>
+    <total>0</total>
+    <recieve>115500</recieve>
+    <details>HBL 0033</details>
+  </person>
+  <person id="80">
+    <date>02/01/2018</date>
+    <name>SARWAR HANIF</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>180450</peritem>
+    <total>0</total>
+    <recieve>180450</recieve>
+    <details>CASH RECEIVED</details>
+  </person>
+  <person id="81">
+    <date>02/01/2018</date>
+    <name>SULTAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>7000</peritem>
+    <total>0</total>
+    <recieve>7000</recieve>
+    <details>CASH RECEIVED</details>
+  </person>
+  <person id="82">
+    <date>02/01/2018</date>
+    <name>SADIQ DERA GHAZI KHAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>ONLINE ALFALAH</details>
+  </person>
+  <person id="83">
+    <date>02/01/2018</date>
+    <name>IBRAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>300000</peritem>
+    <total>0</total>
+    <recieve>300000</recieve>
+    <details>ONLINE ALHABIB</details>
+  </person>
+  <person id="84">
+    <date>02/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>ONLINE ALHABIB</details>
+  </person>
+  <person id="85">
+    <date>03/01/2018</date>
+    <name>ASHIQ BOREWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>150000</peritem>
+    <total>0</total>
+    <recieve>150000</recieve>
+    <details>ONLINE ALFALAH</details>
+  </person>
+  <person id="86">
+    <date>03/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>23000</peritem>
+    <total>0</total>
+    <recieve>23000</recieve>
+    <details>RECEIVED CASH</details>
+  </person>
+  <person id="87">
+    <date>03/01/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>CHQ FAISAL BANK</details>
+  </person>
+  <person id="88">
+    <date>02/01/2018</date>
+    <name>FARHAN HONDA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>ONLINE ALFALAH</details>
+  </person>
+  <person id="89">
+    <date>03/01/2018</date>
+    <name>SAEED KHAN PINDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>300000</peritem>
+    <total>0</total>
+    <recieve>300000</recieve>
+    <details>ONLINE ALFALAH</details>
+  </person>
+  <person id="90">
+    <date>03/01/2018</date>
+    <name>ISHAQ LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1000000</peritem>
+    <total>0</total>
+    <recieve>1000000</recieve>
+    <details>ONLINE AL HABIB</details>
+  </person>
+  <person id="91">
+    <date>03/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>85000</peritem>
+    <total>0</total>
+    <recieve>85000</recieve>
+    <details>ONLINE ALFALAH</details>
+  </person>
+  <person id="93">
+    <date>03/01/2018</date>
+    <name>SARWAR SADDAR</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>9000</peritem>
+    <total>0</total>
+    <recieve>9000</recieve>
+    <details>CASH RECEIVED</details>
+  </person>
+  <person id="94">
+    <date>04/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>25000</peritem>
+    <total>0</total>
+    <recieve>25000</recieve>
+    <details>GULDARAZ</details>
+  </person>
+  <person id="95">
+    <date>04/01/2018</date>
+    <name>SULTAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>CASH RECEIVED</details>
+  </person>
+  <person id="96">
+    <date>04/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>10000</peritem>
+    <total>0</total>
+    <recieve>10000</recieve>
+    <details>MULLA IMRAN</details>
+  </person>
+  <person id="97">
+    <date>05/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>30000</peritem>
+    <total>0</total>
+    <recieve>30000</recieve>
+    <details>ALHABIB</details>
+  </person>
+  <person id="98">
+    <date>05/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>12000</peritem>
+    <total>0</total>
+    <recieve>12000</recieve>
+    <details>CASH RECEIVED</details>
+  </person>
+  <person id="99">
+    <date>05/01/2018</date>
+    <name>AHMED SALOO</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>138000</peritem>
+    <total>0</total>
+    <recieve>138000</recieve>
+    <details>CHQ MEZAN MAJID HAWALA</details>
+  </person>
+  <person id="100">
+    <date>05/01/2018</date>
+    <name>SULTAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>20000</peritem>
+    <total>0</total>
+    <recieve>20000</recieve>
+    <details>CASH RECEIVED</details>
+  </person>
+  <person id="101">
+    <date>05/01/2018</date>
+    <name>ZAHIR SHAH</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>200000</peritem>
+    <total>0</total>
+    <recieve>200000</recieve>
+    <details>CHQ SONERI</details>
+  </person>
+  <person id="102">
+    <date>05/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>31500</peritem>
+    <total>0</total>
+    <recieve>31500</recieve>
+    <details>OVERALL</details>
+  </person>
+  <person id="103">
+    <date>01/01/2018</date>
+    <name>ADIL SAWATI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>15400</peritem>
+    <total>15400</total>
+    <recieve>0</recieve>
+    <details>PREVIOUS BALANCE</details>
+  </person>
+  <person id="104">
+    <date>01/01/2018</date>
+    <name>FAISAL HYDERABAD</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>9000</peritem>
+    <total>9000</total>
+    <recieve>0</recieve>
+    <details>PREVIOUSE BAL</details>
+  </person>
+  <person id="105">
+    <date>08/01/2018</date>
+    <name>SAEED MEHSOOD</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>CASH RECEIVED</details>
+  </person>
+  <person id="106">
+    <date>08/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1500</peritem>
+    <total>0</total>
+    <recieve>1500</recieve>
+    <details>MULLAH IMRAN</details>
+  </person>
+  <person id="107">
+    <date>08/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1500</peritem>
+    <total>0</total>
+    <recieve>1500</recieve>
+    <details>MULLA IMRAN CLAIM</details>
+  </person>
+  <person id="108">
+    <date>08/01/2018</date>
+    <name>AQIB FAISALABAD</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>ONLINE ALHABIB</details>
+  </person>
+  <person id="109">
+    <date>08/01/2018</date>
+    <name>RIAZ PINDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>ONLINE ALHABIB</details>
+  </person>
+  <person id="110">
+    <date>08/01/2018</date>
+    <name>IBRAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>200000</peritem>
+    <total>0</total>
+    <recieve>200000</recieve>
+    <details>ONLINE ALHABIB</details>
+  </person>
+  <person id="111">
+    <date>08/01/2018</date>
+    <name>M SIDDIQ PINDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>70000</peritem>
+    <total>0</total>
+    <recieve>70000</recieve>
+    <details>CHQ MEEZAN</details>
+  </person>
+  <person id="113">
+    <date>09/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>ONLINE ALHABIB</details>
+  </person>
+  <person id="114">
+    <date>09/01/2018</date>
+    <name>NADEEM YASEEN GUJRANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>465560</peritem>
+    <total>0</total>
+    <recieve>465560</recieve>
+    <details>ONLINE ALHABIB</details>
+  </person>
+  <person id="115">
+    <date>09/01/2018</date>
+    <name>NADEEM YASEEN GUJRANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>70500</peritem>
+    <total>0</total>
+    <recieve>70500</recieve>
+    <details>CLAIM</details>
+  </person>
+  <person id="116">
+    <date>09/01/2018</date>
+    <name>IBRAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>200000</peritem>
+    <total>0</total>
+    <recieve>200000</recieve>
+    <details>ALHABIB TANVIR</details>
+  </person>
+  <person id="117">
+    <date>09/01/2018</date>
+    <name>JUNAID HUR CENTER</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>182500</peritem>
+    <total>0</total>
+    <recieve>182500</recieve>
+    <details>CASH RECEIVED</details>
+  </person>
+  <person id="118">
+    <date>09/01/2018</date>
+    <name>AMJAD CPT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>CHQ'S ALLIED</details>
+  </person>
+  <person id="119">
+    <date>10/01/2018</date>
+    <name>MURAAD CPT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>150000</peritem>
+    <total>0</total>
+    <recieve>150000</recieve>
+    <details>CHQ SILK BANK</details>
+  </person>
+  <person id="120">
+    <date>10/01/2018</date>
+    <name>MURAAD CPT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>200000</peritem>
+    <total>0</total>
+    <recieve>200000</recieve>
+    <details>CHQ SILK BANK</details>
+  </person>
+  <person id="121">
+    <date>10/01/2018</date>
+    <name>MURAAD CPT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>200000</peritem>
+    <total>0</total>
+    <recieve>200000</recieve>
+    <details>CHQ ALHABIB</details>
+  </person>
+  <person id="122">
+    <date>11/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>24000</peritem>
+    <total>0</total>
+    <recieve>24000</recieve>
+    <details>RECEIVED CASH</details>
+  </person>
+  <person id="123">
+    <date>11/01/2018</date>
+    <name>GHAFOOR NOOR MUHAMMAD</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>15000</peritem>
+    <total>0</total>
+    <recieve>15000</recieve>
+    <details>CASH RECEIVED</details>
+  </person>
+  <person id="124">
+    <date>11/01/2018</date>
+    <name>IMRAN LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>RECEIVE FRM GOHAR</details>
+  </person>
+  <person id="125">
+    <date>11/01/2018</date>
+    <name>SHAFIQ BALDIA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>20000</peritem>
+    <total>0</total>
+    <recieve>20000</recieve>
+    <details>CASH RECEIVED</details>
+  </person>
+  <person id="126">
+    <date>11/01/2018</date>
+    <name>ASLAM LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>40000</peritem>
+    <total>0</total>
+    <recieve>40000</recieve>
+    <details>ONLINE MEEZAN</details>
+  </person>
+  <person id="127">
+    <date>01/01/2018</date>
+    <name>IDREES GILGIT</name>
+    <company>Japan</company>
+    <item>QBLK UPER</item>
+    <qty>130</qty>
+    <peritem>110</peritem>
+    <total>14300</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="128">
+    <date>01/01/2018</date>
+    <name>IDREES GILGIT</name>
+    <company>Japan</company>
+    <item>QBLK SA</item>
+    <qty>495</qty>
+    <peritem>110</peritem>
+    <total>54450</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="129">
+    <date>01/01/2018</date>
+    <name>IDREES GILGIT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1700</peritem>
+    <total>1700</total>
+    <recieve>0</recieve>
+    <details>EXPENCE</details>
+  </person>
+  <person id="130">
+    <date>02/01/2018</date>
+    <name>SULTAN</name>
+    <company>Japan</company>
+    <item>QBLK YSN</item>
+    <qty>230</qty>
+    <peritem>100</peritem>
+    <total>23000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="131">
+    <date>02/01/2018</date>
+    <name>FARHAN HONDA</name>
+    <company>Local</company>
+    <item>SEAT COVER</item>
+    <qty>23</qty>
+    <peritem>2000</peritem>
+    <total>46000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="132">
+    <date>03/01/2018</date>
+    <name>Cash Customer</name>
+    <company>RB</company>
+    <item>MBLK</item>
+    <qty>1</qty>
+    <peritem>23000</peritem>
+    <total>23000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="133">
+    <date>03/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>Hi-top</company>
+    <item>QC</item>
+    <qty>10</qty>
+    <peritem>10500</peritem>
+    <total>105000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="134">
+    <date>03/01/2018</date>
+    <name>FARHAN HONDA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>4000</peritem>
+    <total>4000</total>
+    <recieve>0</recieve>
+    <details>RETURN CASH</details>
+  </person>
+  <person id="136">
+    <date>03/01/2018</date>
+    <name>Cash Customer</name>
+    <company>SD</company>
+    <item>LL COAT</item>
+    <qty>5</qty>
+    <peritem>5000</peritem>
+    <total>25000</total>
+    <recieve>0</recieve>
+    <details>GULDARAZ</details>
+  </person>
+  <person id="137">
+    <date>04/01/2018</date>
+    <name>HAQ NAWAZ KARACHI</name>
+    <company>Hi-top</company>
+    <item>TB</item>
+    <qty>3</qty>
+    <peritem>13500</peritem>
+    <total>40500</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="138">
+    <date>04/01/2018</date>
+    <name>HAQ NAWAZ KARACHI</name>
+    <company>Hi-top</company>
+    <item>MS</item>
+    <qty>3</qty>
+    <peritem>5500</peritem>
+    <total>16500</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="139">
+    <date>03/01/2018</date>
+    <name>Cash Customer</name>
+    <company>Hi-top</company>
+    <item>QBLK-B</item>
+    <qty>2</qty>
+    <peritem>6500</peritem>
+    <total>13000</total>
+    <recieve>0</recieve>
+    <details>MULLA IMRAN</details>
+  </person>
+  <person id="140">
+    <date>04/01/2018</date>
+    <name>MURAAD CPT</name>
+    <company>Hi-top</company>
+    <item>RCPT</item>
+    <qty>1390</qty>
+    <peritem>220</peritem>
+    <total>305800</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="141">
+    <date>04/01/2018</date>
+    <name>M SIDDIQ PINDI</name>
+    <company>Hi-top</company>
+    <item>QBLK-B</item>
+    <qty>10</qty>
+    <peritem>7000</peritem>
+    <total>70000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="142">
+    <date>04/01/2018</date>
+    <name>M SIDDIQ PINDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>800</peritem>
+    <total>800</total>
+    <recieve>0</recieve>
+    <details>EXPENCE</details>
+  </person>
+  <person id="143">
+    <date>05/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>Hi-top</company>
+    <item>Shirt</item>
+    <qty>6</qty>
+    <peritem>14000</peritem>
+    <total>84000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="144">
+    <date>05/01/2018</date>
+    <name>Cash Customer</name>
+    <company>Hi-top</company>
+    <item>QBLK-B</item>
+    <qty>2</qty>
+    <peritem>6000</peritem>
+    <total>12000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="145">
+    <date>05/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>Hi-top</company>
+    <item>Tex-L</item>
+    <qty>8</qty>
+    <peritem>10500</peritem>
+    <total>84000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="146">
+    <date>05/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>Hi-top</company>
+    <item>QBLK-B</item>
+    <qty>5</qty>
+    <peritem>6000</peritem>
+    <total>30000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="147">
+    <date>05/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>960</peritem>
+    <total>960</total>
+    <recieve>0</recieve>
+    <details>EXPENCE</details>
+  </person>
+  <person id="148">
+    <date>05/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>WCS</company>
+    <item>M SHIRT</item>
+    <qty>9</qty>
+    <peritem>3000</peritem>
+    <total>27000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="149">
+    <date>05/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>WCS</company>
+    <item>LCP</item>
+    <qty>2</qty>
+    <peritem>3000</peritem>
+    <total>6000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="150">
+    <date>05/01/2018</date>
+    <name>Haji Ahmed Khan Lahore</name>
+    <company>WCS</company>
+    <item>BRA</item>
+    <qty>1</qty>
+    <peritem>5000</peritem>
+    <total>5000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="151">
+    <date>05/01/2018</date>
+    <name>Haji Ahmed Khan Lahore</name>
+    <company>WCS</company>
+    <item>LHHR</item>
+    <qty>50</qty>
+    <peritem>1400</peritem>
+    <total>70000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="152">
+    <date>05/01/2018</date>
+    <name>Haji Ahmed Khan Lahore</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1700</peritem>
+    <total>1700</total>
+    <recieve>0</recieve>
+    <details>EXPENCE</details>
+  </person>
+  <person id="153">
+    <date>05/01/2018</date>
+    <name>RUSTAM LAHORE</name>
+    <company>WCS</company>
+    <item>LHHR</item>
+    <qty>52</qty>
+    <peritem>1400</peritem>
+    <total>72800</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="154">
+    <date>05/01/2018</date>
+    <name>RUSTAM LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1720</peritem>
+    <total>1720</total>
+    <recieve>0</recieve>
+    <details>EXPENCE</details>
+  </person>
+  <person id="155">
+    <date>06/01/2018</date>
+    <name>SULTAN</name>
+    <company>Japan</company>
+    <item>QBLK YSN</item>
+    <qty>481</qty>
+    <peritem>100</peritem>
+    <total>48100</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="156">
+    <date>06/01/2018</date>
+    <name>Cash Customer</name>
+    <company>SD</company>
+    <item>OVERALL</item>
+    <qty>9</qty>
+    <peritem>3500</peritem>
+    <total>31500</total>
+    <recieve>0</recieve>
+    <details>OVERALL</details>
+  </person>
+  <person id="157">
+    <date>06/01/2018</date>
+    <name>Cash Customer</name>
+    <company>AT</company>
+    <item>Cvelv</item>
+    <qty>1</qty>
+    <peritem>11000</peritem>
+    <total>11000</total>
+    <recieve>0</recieve>
+    <details>AMJAD SHERSHAH</details>
+  </person>
+  <person id="158">
+    <date>10/01/2018</date>
+    <name>ASHIQ LAHORE</name>
+    <company>Hi-top</company>
+    <item>QBLK-B</item>
+    <qty>53</qty>
+    <peritem>5200</peritem>
+    <total>275600</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="159">
+    <date>10/01/2018</date>
+    <name>ASHIQ LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3060</peritem>
+    <total>3060</total>
+    <recieve>0</recieve>
+    <details>EXPENCE</details>
+  </person>
+  <person id="161">
+    <date>10/01/2018</date>
+    <name>ASIF RASHEED</name>
+    <company>SONY</company>
+    <item>MAT</item>
+    <qty>364</qty>
+    <peritem>38</peritem>
+    <total>13832</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="162">
+    <date>10/01/2018</date>
+    <name>ASIF RASHEED</name>
+    <company>SONY</company>
+    <item>QBLK</item>
+    <qty>487</qty>
+    <peritem>38</peritem>
+    <total>18506</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="163">
+    <date>10/01/2018</date>
+    <name>ASIF RASHEED</name>
+    <company>SONY</company>
+    <item>MEN JACKET</item>
+    <qty>448</qty>
+    <peritem>15</peritem>
+    <total>6720</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="164">
+    <date>10/01/2018</date>
+    <name>ASIF RASHEED</name>
+    <company>SONY</company>
+    <item>FLEECE</item>
+    <qty>230</qty>
+    <peritem>8</peritem>
+    <total>1840</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="165">
+    <date>10/01/2018</date>
+    <name>ASIF RASHEED</name>
+    <company>SONY</company>
+    <item>LP</item>
+    <qty>454</qty>
+    <peritem>10</peritem>
+    <total>4540</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="166">
+    <date>11/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>REHMAT ULLAH </details>
+  </person>
+  <person id="167">
+    <date>11/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>40000</peritem>
+    <total>0</total>
+    <recieve>40000</recieve>
+    <details>REHMAT ULLAH</details>
+  </person>
+  <person id="168">
+    <date>11/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>70000</peritem>
+    <total>0</total>
+    <recieve>70000</recieve>
+    <details>REHMAT ULLAH</details>
+  </person>
+  <person id="169">
+    <date>11/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>840</peritem>
+    <total>0</total>
+    <recieve>840</recieve>
+    <details>REHMAT ULLAH CLAIM</details>
+  </person>
+  <person id="170">
+    <date>12/01/2018</date>
+    <name>Cash Customer</name>
+    <company>Fanta</company>
+    <item>CTL</item>
+    <qty>1</qty>
+    <peritem>9500</peritem>
+    <total>9500</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="171">
+    <date>12/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>9500</peritem>
+    <total>0</total>
+    <recieve>9500</recieve>
+    <details>CTL</details>
+  </person>
+  <person id="172">
+    <date>09/01/2018</date>
+    <name>NIAZ KHAN SOCKS</name>
+    <company>Local</company>
+    <item>Socks</item>
+    <qty>25</qty>
+    <peritem>5000</peritem>
+    <total>125000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="173">
+    <date>05/01/2018</date>
+    <name>ZAHIR SHAH</name>
+    <company>Hi-top</company>
+    <item>QC</item>
+    <qty>15</qty>
+    <peritem>10500</peritem>
+    <total>157500</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="174">
+    <date>03/01/2018</date>
+    <name>AQEEL LIGHTHOUSE</name>
+    <company>AALI</company>
+    <item>MBAG</item>
+    <qty>322</qty>
+    <peritem>100</peritem>
+    <total>32200</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="176">
+    <date>03/01/2018</date>
+    <name>LIAQUAT</name>
+    <company>Hi-top</company>
+    <item>Azjw</item>
+    <qty>121</qty>
+    <peritem>1</peritem>
+    <total>121</total>
+    <recieve>0</recieve>
+    <details>RETURN</details>
+  </person>
+  <person id="177">
+    <date>05/01/2018</date>
+    <name>SHEHZAD LAHORE</name>
+    <company>Local</company>
+    <item>BABY SHIPER</item>
+    <qty>10</qty>
+    <peritem>13000</peritem>
+    <total>130000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="179">
+    <date>06/01/2018</date>
+    <name>LIAQUAT</name>
+    <company>Hi-top</company>
+    <item>QBLK-B</item>
+    <qty>5</qty>
+    <peritem>5500</peritem>
+    <total>27500</total>
+    <recieve>0</recieve>
+    <details>RETURN</details>
+  </person>
+  <person id="180">
+    <date>10/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>OSAKA</company>
+    <item>CWW</item>
+    <qty>9</qty>
+    <peritem>5000</peritem>
+    <total>45000</total>
+    <recieve>0</recieve>
+    <details>RETURN</details>
+  </person>
+  <person id="181">
+    <date>10/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>800</peritem>
+    <total>800</total>
+    <recieve>0</recieve>
+    <details>EXPENCE</details>
+  </person>
+  <person id="182">
+    <date>11/01/2018</date>
+    <name>QAYYUM KAMRAN</name>
+    <company>OSAKA</company>
+    <item>LPS</item>
+    <qty>70</qty>
+    <peritem>11000</peritem>
+    <total>770000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="183">
+    <date>11/01/2018</date>
+    <name>QAYYUM KAMRAN</name>
+    <company>OSAKA</company>
+    <item>LCS</item>
+    <qty>60</qty>
+    <peritem>12500</peritem>
+    <total>750000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="184">
+    <date>11/01/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>SONY</company>
+    <item>B&amp;B,ELCT</item>
+    <qty>10907</qty>
+    <peritem>125</peritem>
+    <total>1363375</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="185">
+    <date>11/01/2018</date>
+    <name>Cash Customer</name>
+    <company>DBK</company>
+    <item>MBLK</item>
+    <qty>1</qty>
+    <peritem>24000</peritem>
+    <total>24000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="186">
+    <date>11/01/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>ALHABIB CHQ</details>
+  </person>
+  <person id="187">
+    <date>11/01/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>250000</peritem>
+    <total>0</total>
+    <recieve>250000</recieve>
+    <details>MEEZAN CHQ</details>
+  </person>
+  <person id="188">
+    <date>11/01/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>FAYSAL BANK</details>
+  </person>
+  <person id="189">
+    <date>11/01/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>ALFALAH BANK</details>
+  </person>
+  <person id="190">
+    <date>11/01/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>ALFALAH CHQ</details>
+  </person>
+  <person id="191">
+    <date>11/01/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>30000</peritem>
+    <total>0</total>
+    <recieve>30000</recieve>
+    <details>JSB CHQ</details>
+  </person>
+  <person id="192">
+    <date>11/01/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>370000</peritem>
+    <total>0</total>
+    <recieve>370000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="193">
+    <date>12/01/2018</date>
+    <name>Cash Customer</name>
+    <company>DBK</company>
+    <item>QBLK-B</item>
+    <qty>30</qty>
+    <peritem>5300</peritem>
+    <total>159000</total>
+    <recieve>0</recieve>
+    <details>REHMAT ULLAH</details>
+  </person>
+  <person id="194">
+    <date>12/01/2018</date>
+    <name>Cash Customer</name>
+    <company>DBK</company>
+    <item>RCPT</item>
+    <qty>116</qty>
+    <peritem>240</peritem>
+    <total>27840</total>
+    <recieve>0</recieve>
+    <details>REHMAT ULLAH</details>
+  </person>
+  <person id="195">
+    <date>12/01/2018</date>
+    <name>Cash Customer</name>
+    <company>DBK</company>
+    <item>MBLK</item>
+    <qty>1</qty>
+    <peritem>24000</peritem>
+    <total>24000</total>
+    <recieve>0</recieve>
+    <details>REHMAT ULLAH</details>
+  </person>
+  <person id="196">
+    <date>12/01/2018</date>
+    <name>Cash Customer</name>
+    <company>DBK</company>
+    <item>QBLK-B</item>
+    <qty>2</qty>
+    <peritem>6000</peritem>
+    <total>12000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="197">
+    <date>12/01/2018</date>
+    <name>Cash Customer</name>
+    <company>DBK</company>
+    <item>WBLK</item>
+    <qty>1</qty>
+    <peritem>12500</peritem>
+    <total>12500</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="198">
+    <date>12/01/2018</date>
+    <name>Cash Customer</name>
+    <company>DBK</company>
+    <item>QBLK-A</item>
+    <qty>3</qty>
+    <peritem>7700</peritem>
+    <total>23100</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="199">
+    <date>12/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>12000</peritem>
+    <total>0</total>
+    <recieve>12000</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="200">
+    <date>12/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>12500</peritem>
+    <total>0</total>
+    <recieve>12500</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="201">
+    <date>12/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>23100</peritem>
+    <total>0</total>
+    <recieve>23100</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="202">
+    <date>12/01/2018</date>
+    <name>IBRAR LAHORE</name>
+    <company>DBK</company>
+    <item>CTH</item>
+    <qty>51</qty>
+    <peritem>11000</peritem>
+    <total>561000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="203">
+    <date>12/01/2018</date>
+    <name>IBRAR LAHORE</name>
+    <company>DBK</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3000</peritem>
+    <total>3000</total>
+    <recieve>0</recieve>
+    <details>expence</details>
+  </person>
+  <person id="204">
+    <date>13/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>20000</peritem>
+    <total>0</total>
+    <recieve>20000</recieve>
+    <details>ALHABIB</details>
+  </person>
+  <person id="205">
+    <date>13/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>48000</peritem>
+    <total>0</total>
+    <recieve>48000</recieve>
+    <details>RECEIEVD CASH SB</details>
+  </person>
+  <person id="206">
+    <date>13/01/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>DBK</company>
+    <item>MSHIRT-B</item>
+    <qty>6</qty>
+    <peritem>14000</peritem>
+    <total>84000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="207">
+    <date>13/01/2018</date>
+    <name>Cash Customer</name>
+    <company>DBK</company>
+    <item>SBAG</item>
+    <qty>2</qty>
+    <peritem>24000</peritem>
+    <total>48000</total>
+    <recieve>0</recieve>
+    <details>CASH SB</details>
+  </person>
+  <person id="208">
+    <date>13/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>DBK</company>
+    <item>QBLK-A</item>
+    <qty>19</qty>
+    <peritem>6800</peritem>
+    <total>129200</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="209">
+    <date>13/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>DBK</company>
+    <item>BAG-BMIX</item>
+    <qty>2</qty>
+    <peritem>10000</peritem>
+    <total>20000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="210">
+    <date>13/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>DBK</company>
+    <item>QBLK-B</item>
+    <qty>16</qty>
+    <peritem>5300</peritem>
+    <total>84800</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="211">
+    <date>13/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>DBK</company>
+    <item>MBLK</item>
+    <qty>21</qty>
+    <peritem>22000</peritem>
+    <total>462000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="212">
+    <date>13/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>Local</company>
+    <item>MBLK</item>
+    <qty>2</qty>
+    <peritem>20000</peritem>
+    <total>40000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="213">
+    <date>13/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>RB</company>
+    <item>MBLK</item>
+    <qty>10</qty>
+    <peritem>22000</peritem>
+    <total>220000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="214">
+    <date>13/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>DBK</company>
+    <item>VVT LADY</item>
+    <qty>5</qty>
+    <peritem>9000</peritem>
+    <total>45000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="215">
+    <date>13/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>DBK</company>
+    <item>WBLK</item>
+    <qty>6</qty>
+    <peritem>10500</peritem>
+    <total>63000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="216">
+    <date>13/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>RB</company>
+    <item>WBLK</item>
+    <qty>11</qty>
+    <peritem>10500</peritem>
+    <total>115500</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="217">
+    <date>13/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>Local</company>
+    <item>WBLK</item>
+    <qty>2</qty>
+    <peritem>10500</peritem>
+    <total>21000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="218">
+    <date>13/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>9500</peritem>
+    <total>9500</total>
+    <recieve>0</recieve>
+    <details>EXPENCE</details>
+  </person>
+  <person id="219">
+    <date>15/01/2018</date>
+    <name>BACHA KHAN LIGHT HOUSE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>CASH RECEIVED</details>
+  </person>
+  <person id="220">
+    <date>15/01/2018</date>
+    <name>BACHA KHAN LIGHT HOUSE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>CHQ ALHABIB</details>
+  </person>
+  <person id="221">
+    <date>15/01/2018</date>
+    <name>BACHA KHAN LIGHT HOUSE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>CHQ ALHABIB</details>
+  </person>
+  <person id="222">
+    <date>15/01/2018</date>
+    <name>IBRAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>300000</peritem>
+    <total>0</total>
+    <recieve>300000</recieve>
+    <details>ONLINE ALHABIB</details>
+  </person>
+  <person id="223">
+    <date>15/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>11000</peritem>
+    <total>0</total>
+    <recieve>11000</recieve>
+    <details>AMJAD</details>
+  </person>
+  <person id="224">
+    <date>15/01/2018</date>
+    <name>NAZEER BAHAWALPUR</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>200000</peritem>
+    <total>0</total>
+    <recieve>200000</recieve>
+    <details>ONLINE MEEZAN</details>
+  </person>
+  <person id="225">
+    <date>11/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>23000</peritem>
+    <total>0</total>
+    <recieve>23000</recieve>
+    <details>DEEN HBL CHQ</details>
+  </person>
+  <person id="226">
+    <date>11/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1000</peritem>
+    <total>0</total>
+    <recieve>1000</recieve>
+    <details>DEEN CASH</details>
+  </person>
+  <person id="227">
+    <date>13/01/2018</date>
+    <name>Cash Customer</name>
+    <company>DBK</company>
+    <item>MUFLER</item>
+    <qty>8</qty>
+    <peritem>4000</peritem>
+    <total>32000</total>
+    <recieve>0</recieve>
+    <details>DEEN</details>
+  </person>
+  <person id="228">
+    <date>13/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>8000</peritem>
+    <total>0</total>
+    <recieve>8000</recieve>
+    <details>DEEN CASH</details>
+  </person>
+  <person id="229">
+    <date>13/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>7200</peritem>
+    <total>0</total>
+    <recieve>7200</recieve>
+    <details>CASH </details>
+  </person>
+  <person id="230">
+    <date>13/01/2018</date>
+    <name>MAJEED ATWN</name>
+    <company>DBK</company>
+    <item>ATWN</item>
+    <qty>2</qty>
+    <peritem>15500</peritem>
+    <total>31000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="231">
+    <date>13/01/2018</date>
+    <name>MAJEED ATWN</name>
+    <company>Local</company>
+    <item>ATWN</item>
+    <qty>11</qty>
+    <peritem>11500</peritem>
+    <total>126500</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="232">
+    <date>13/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>DBK</company>
+    <item>CTL</item>
+    <qty>8</qty>
+    <peritem>1</peritem>
+    <total>8</total>
+    <recieve>0</recieve>
+    <details>RETUN</details>
+  </person>
+  <person id="233">
+    <date>13/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>DBK</company>
+    <item>CPKPNT</item>
+    <qty>3</qty>
+    <peritem>1</peritem>
+    <total>3</total>
+    <recieve>0</recieve>
+    <details>RETURN</details>
+  </person>
+  <person id="234">
+    <date>13/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>UHT</company>
+    <item>MBLK</item>
+    <qty>2</qty>
+    <peritem>22000</peritem>
+    <total>44000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="235">
+    <date>13/01/2018</date>
+    <name>Cash Customer</name>
+    <company>WCS</company>
+    <item>VVT CURT</item>
+    <qty>3</qty>
+    <peritem>2400</peritem>
+    <total>7200</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="236">
+    <date>13/01/2018</date>
+    <name>Cash Customer</name>
+    <company>RB</company>
+    <item>KTW</item>
+    <qty>4</qty>
+    <peritem>4200</peritem>
+    <total>16800</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="237">
+    <date>13/01/2018</date>
+    <name>Cash Customer</name>
+    <company>SB</company>
+    <item>KTW</item>
+    <qty>4</qty>
+    <peritem>4200</peritem>
+    <total>16800</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="238">
+    <date>13/01/2018</date>
+    <name>Cash Customer</name>
+    <company>DBK</company>
+    <item>KTW</item>
+    <qty>3</qty>
+    <peritem>4200</peritem>
+    <total>12600</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="239">
+    <date>13/01/2018</date>
+    <name>FIDA HUSSAIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1</peritem>
+    <total>1</total>
+    <recieve>0</recieve>
+    <details>F&amp;H MIX ITEMS KG 5125</details>
+  </person>
+  <person id="240">
+    <date>13/01/2018</date>
+    <name>UMAIR BHAI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1</peritem>
+    <total>1</total>
+    <recieve>0</recieve>
+    <details>SD WOOL SKIRT PANT 6 BALES</details>
+  </person>
+  <person id="241">
+    <date>13/01/2018</date>
+    <name>UMAIR BHAI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1</peritem>
+    <total>1</total>
+    <recieve>0</recieve>
+    <details>SD CASHMEERA 11 BALES</details>
+  </person>
+  <person id="242">
+    <date>15/01/2018</date>
+    <name>Cash Customer</name>
+    <company>F&amp;H</company>
+    <item>TOYS</item>
+    <qty>75</qty>
+    <peritem>110</peritem>
+    <total>8250</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="243">
+    <date>12/01/2018</date>
+    <name>MUHAMMAD RASOOL KHAN </name>
+    <company>SD</company>
+    <item>STRCHBL JCKT</item>
+    <qty>550</qty>
+    <peritem>190</peritem>
+    <total>104500</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="244">
+    <date>12/01/2018</date>
+    <name>MUHAMMAD RASOOL KHAN </name>
+    <company>SD</company>
+    <item>INR FUR JCKT</item>
+    <qty>17</qty>
+    <peritem>3500</peritem>
+    <total>59500</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="245">
+    <date>12/01/2018</date>
+    <name>GULDRAZ LONG COAT</name>
+    <company>SD</company>
+    <item>LL COAT</item>
+    <qty>130</qty>
+    <peritem>100</peritem>
+    <total>13000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="246">
+    <date>16/01/2018</date>
+    <name>BADSHAH SAMNA </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1080000</peritem>
+    <total>0</total>
+    <recieve>1080000</recieve>
+    <details>2 CHQ JAMA</details>
+  </person>
+  <person id="247">
+    <date>08/01/2018</date>
+    <name>BADSHAH SAMNA </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>250000</peritem>
+    <total>250000</total>
+    <recieve>0</recieve>
+    <details>CHQ ALL HABIB</details>
+  </person>
+  <person id="248">
+    <date>08/01/2018</date>
+    <name>BADSHAH SAMNA </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>150000</peritem>
+    <total>150000</total>
+    <recieve>0</recieve>
+    <details>ALL HABIB</details>
+  </person>
+  <person id="250">
+    <date>16/01/2018</date>
+    <name>BADSHAH SAMNA </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>250000</peritem>
+    <total>250000</total>
+    <recieve>0</recieve>
+    <details>HBL AHMED SHAH</details>
+  </person>
+  <person id="251">
+    <date>08/01/2018</date>
+    <name>BADSHAH SAMNA </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>100000</total>
+    <recieve>0</recieve>
+    <details>AL HABIB</details>
+  </person>
+  <person id="252">
+    <date>01/01/2018</date>
+    <name>USMAN BHAI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1300000</peritem>
+    <total>1300000</total>
+    <recieve>0</recieve>
+    <details>CHQ 3</details>
+  </person>
+  <person id="253">
+    <date>01/01/2018</date>
+    <name>FAROK JAPAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1061400</peritem>
+    <total>1061400</total>
+    <recieve>0</recieve>
+    <details>4.12.2017 ALL</details>
+  </person>
+  <person id="254">
+    <date>01/01/2018</date>
+    <name>FAROK JAPAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1401980</peritem>
+    <total>1401980</total>
+    <recieve>0</recieve>
+    <details>9.12.2017</details>
+  </person>
+  <person id="255">
+    <date>01/01/2018</date>
+    <name>FAROK JAPAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>84000</peritem>
+    <total>0</total>
+    <recieve>84000</recieve>
+    <details>RETAN CHQ 9.12.2017</details>
+  </person>
+  <person id="256">
+    <date>16/01/2018</date>
+    <name>FAROK JAPAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>11000</peritem>
+    <total>0</total>
+    <recieve>22000</recieve>
+    <details>FUJI M SUIT</details>
+  </person>
+  <person id="257">
+    <date>01/01/2018</date>
+    <name>FAROK JAPAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>11000</peritem>
+    <total>0</total>
+    <recieve>22000</recieve>
+    <details>M SUIT NBC</details>
+  </person>
+  <person id="258">
+    <date>01/01/2018</date>
+    <name>FAROK JAPAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>11000</peritem>
+    <total>0</total>
+    <recieve>22000</recieve>
+    <details>M SUIT</details>
+  </person>
+  <person id="259">
+    <date>01/01/2018</date>
+    <name>FAROK JAPAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>4</qty>
+    <peritem>11000</peritem>
+    <total>0</total>
+    <recieve>44000</recieve>
+    <details>M SUIT </details>
+  </person>
+  <person id="260">
+    <date>01/01/2018</date>
+    <name>FAROK JAPAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>50</qty>
+    <peritem>11000</peritem>
+    <total>0</total>
+    <recieve>550000</recieve>
+    <details>M SUIT FUJI</details>
+  </person>
+  <person id="261">
+    <date>01/01/2018</date>
+    <name>FAROK JAPAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>50</qty>
+    <peritem>11000</peritem>
+    <total>0</total>
+    <recieve>550000</recieve>
+    <details>M SUIT SONY</details>
+  </person>
+  <person id="262">
+    <date>01/01/2018</date>
+    <name>FAROK JAPAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>80000</peritem>
+    <total>0</total>
+    <recieve>80000</recieve>
+    <details>CHQ RETUM</details>
+  </person>
+  <person id="263">
+    <date>01/01/2018</date>
+    <name>USMAN BHAI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>480000</peritem>
+    <total>480000</total>
+    <recieve>0</recieve>
+    <details>CHQ ALL HABIB 15.11.2017</details>
+  </person>
+  <person id="264">
+    <date>01/01/2018</date>
+    <name>USMAN BHAI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1680000</peritem>
+    <total>1680000</total>
+    <recieve>0</recieve>
+    <details>5 CHQ MIX BANK</details>
+  </person>
+  <person id="265">
+    <date>03/01/2018</date>
+    <name>ALI WALI </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>600000</peritem>
+    <total>600000</total>
+    <recieve>0</recieve>
+    <details>CHQ SHAHJEE</details>
+  </person>
+  <person id="266">
+    <date>03/01/2018</date>
+    <name>ALI WALI </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>600000</peritem>
+    <total>0</total>
+    <recieve>600000</recieve>
+    <details>SHAH JEE NIL</details>
+  </person>
+  <person id="267">
+    <date>17/01/2018</date>
+    <name>ALI WALI </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>44</qty>
+    <peritem>7800</peritem>
+    <total>0</total>
+    <recieve>343200</recieve>
+    <details>CTH KOREA</details>
+  </person>
+  <person id="268">
+    <date>16/01/2018</date>
+    <name>ASHIQ BOREWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>87500</peritem>
+    <total>0</total>
+    <recieve>87500</recieve>
+    <details>CLAIM</details>
+  </person>
+  <person id="270">
+    <date>16/01/2018</date>
+    <name>GHULAB SHAH</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>115000</peritem>
+    <total>0</total>
+    <recieve>115000</recieve>
+    <details>CASH </details>
+  </person>
+  <person id="271">
+    <date>16/01/2018</date>
+    <name>GUL BADIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>16000</peritem>
+    <total>0</total>
+    <recieve>16000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="272">
+    <date>16/01/2018</date>
+    <name>GUL BADIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>500</peritem>
+    <total>0</total>
+    <recieve>500</recieve>
+    <details>CLAIM</details>
+  </person>
+  <person id="273">
+    <date>16/01/2018</date>
+    <name>ASIF RASHEED</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="274">
+    <date>16/01/2018</date>
+    <name>SADIQ DERA GHAZI KHAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>ALLFALAH ONLINE</details>
+  </person>
+  <person id="275">
+    <date>16/01/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>150000</peritem>
+    <total>0</total>
+    <recieve>150000</recieve>
+    <details>MEEZAN ONLINE </details>
+  </person>
+  <person id="276">
+    <date>16/01/2018</date>
+    <name>ASHIQ LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>250000</peritem>
+    <total>0</total>
+    <recieve>250000</recieve>
+    <details>SHAID ONLINE</details>
+  </person>
+  <person id="277">
+    <date>16/01/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>150000</peritem>
+    <total>150000</total>
+    <recieve>0</recieve>
+    <details>CHQ RETUN </details>
+  </person>
+  <person id="278">
+    <date>16/01/2018</date>
+    <name>JAHANGIR LAHORE</name>
+    <company>Local</company>
+    <item>APP</item>
+    <qty>30</qty>
+    <peritem>5000</peritem>
+    <total>150000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="279">
+    <date>16/01/2018</date>
+    <name>JAHANGIR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2400</peritem>
+    <total>2400</total>
+    <recieve>0</recieve>
+    <details>KARCHA</details>
+  </person>
+  <person id="280">
+    <date>16/01/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>300000</peritem>
+    <total>300000</total>
+    <recieve>0</recieve>
+    <details>CHQ  200000+100000</details>
+  </person>
+  <person id="281">
+    <date>10/01/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>100</qty>
+    <peritem>4000</peritem>
+    <total>0</total>
+    <recieve>400000</recieve>
+    <details>PANT</details>
+  </person>
+  <person id="282">
+    <date>10/01/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3500</peritem>
+    <total>0</total>
+    <recieve>3500</recieve>
+    <details>KARCHA</details>
+  </person>
+  <person id="283">
+    <date>10/01/2018</date>
+    <name>IBRAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>100</qty>
+    <peritem>4000</peritem>
+    <total>400000</total>
+    <recieve>0</recieve>
+    <details>PANT</details>
+  </person>
+  <person id="284">
+    <date>10/01/2018</date>
+    <name>IBRAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3500</peritem>
+    <total>3500</total>
+    <recieve>0</recieve>
+    <details>KARCHA</details>
+  </person>
+  <person id="285">
+    <date>16/01/2018</date>
+    <name>ASIF RASHEED</name>
+    <company>F&amp;H</company>
+    <item>TOYS</item>
+    <qty>2164</qty>
+    <peritem>90</peritem>
+    <total>194760</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="286">
+    <date>16/01/2018</date>
+    <name>ASIF RASHEED</name>
+    <company>F&amp;H</company>
+    <item>HHR</item>
+    <qty>1220</qty>
+    <peritem>65</peritem>
+    <total>79300</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="292">
+    <date>17/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1000000</peritem>
+    <total>0</total>
+    <recieve>1000000</recieve>
+    <details>CASH </details>
+  </person>
+  <person id="293">
+    <date>17/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>30000</peritem>
+    <total>0</total>
+    <recieve>30000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="294">
+    <date>17/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>AALI</company>
+    <item>
+    </item>
+    <qty>44</qty>
+    <peritem>7800</peritem>
+    <total>343200</total>
+    <recieve>0</recieve>
+    <details>CTH</details>
+  </person>
+  <person id="295">
+    <date>17/01/2018</date>
+    <name>ALLAH GUL</name>
+    <company>F&amp;H</company>
+    <item>ELECTRONIC</item>
+    <qty>535</qty>
+    <peritem>108</peritem>
+    <total>57780</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="296">
+    <date>17/01/2018</date>
+    <name>ALLAH GUL</name>
+    <company>F&amp;H</company>
+    <item>BAR BACK</item>
+    <qty>2237</qty>
+    <peritem>108</peritem>
+    <total>241596</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="297">
+    <date>17/01/2018</date>
+    <name>ALI WALI </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>443800</peritem>
+    <total>443800</total>
+    <recieve>0</recieve>
+    <details>CHQ</details>
+  </person>
+  <person id="298">
+    <date>17/01/2018</date>
+    <name>ALI WALI </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>TANVER RETUN</details>
+  </person>
+  <person id="299">
+    <date>31/12/2017</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>92000</peritem>
+    <total>0</total>
+    <recieve>92000</recieve>
+    <details>CLAIM</details>
+  </person>
+  <person id="300">
+    <date>05/01/2018</date>
+    <name>ASHIQ LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>7</qty>
+    <peritem>13500</peritem>
+    <total>0</total>
+    <recieve>94500</recieve>
+    <details>RETURN ATWN</details>
+  </person>
+  <person id="301">
+    <date>16/01/2018</date>
+    <name>FIDA HUSSAIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>2880</qty>
+    <peritem>95</peritem>
+    <total>0</total>
+    <recieve>273600</recieve>
+    <details>bar back ele</details>
+  </person>
+  <person id="302">
+    <date>16/01/2018</date>
+    <name>FIDA HUSSAIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>2239</qty>
+    <peritem>45</peritem>
+    <total>0</total>
+    <recieve>100755</recieve>
+    <details>toys </details>
+  </person>
+  <person id="303">
+    <date>16/01/2018</date>
+    <name>FIDA HUSSAIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1220</qty>
+    <peritem>30</peritem>
+    <total>0</total>
+    <recieve>36600</recieve>
+    <details>HHR</details>
+  </person>
+  <person id="304">
+    <date>16/01/2018</date>
+    <name>FIDA HUSSAIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>498000</peritem>
+    <total>498000</total>
+    <recieve>0</recieve>
+    <details>CHQ</details>
+  </person>
+  <person id="305">
+    <date>17/01/2018</date>
+    <name>HAQ NAWAZ KARACHI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="306">
+    <date>17/01/2018</date>
+    <name>HAQ NAWAZ KARACHI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>43800</peritem>
+    <total>0</total>
+    <recieve>43800</recieve>
+    <details>CHQ HBL 0000096</details>
+  </person>
+  <person id="307">
+    <date>17/01/2018</date>
+    <name>HAQ NAWAZ KARACHI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>30000</peritem>
+    <total>0</total>
+    <recieve>30000</recieve>
+    <details>CHQ ALLFALAH 61691667</details>
+  </person>
+  <person id="308">
+    <date>10/01/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>cash </details>
+  </person>
+  <person id="309">
+    <date>16/01/2018</date>
+    <name>SADIQ DERA GHAZI KHAN</name>
+    <company>DBK</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>11000</peritem>
+    <total>11000</total>
+    <recieve>0</recieve>
+    <details>CTH</details>
+  </person>
+  <person id="310">
+    <date>16/01/2018</date>
+    <name>SADIQ DERA GHAZI KHAN</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>11000</peritem>
+    <total>11000</total>
+    <recieve>0</recieve>
+    <details>CTH</details>
+  </person>
+  <person id="311">
+    <date>16/01/2018</date>
+    <name>SADIQ DERA GHAZI KHAN</name>
+    <company>DBK</company>
+    <item>CPT</item>
+    <qty>2</qty>
+    <peritem>15000</peritem>
+    <total>30000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="312">
+    <date>16/01/2018</date>
+    <name>SADIQ DERA GHAZI KHAN</name>
+    <company>DBK</company>
+    <item>BLK-MB</item>
+    <qty>4</qty>
+    <peritem>15000</peritem>
+    <total>60000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="313">
+    <date>16/01/2018</date>
+    <name>SADIQ DERA GHAZI KHAN</name>
+    <company>Fanta</company>
+    <item>CTL</item>
+    <qty>2</qty>
+    <peritem>10000</peritem>
+    <total>20000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="314">
+    <date>16/01/2018</date>
+    <name>SADIQ DERA GHAZI KHAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>850</peritem>
+    <total>850</total>
+    <recieve>0</recieve>
+    <details>KARCHA</details>
+  </person>
+  <person id="315">
+    <date>02/01/2018</date>
+    <name>IDREES GILGIT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>70000</peritem>
+    <total>0</total>
+    <recieve>70000</recieve>
+    <details>ALLFALAH</details>
+  </person>
+  <person id="316">
+    <date>01/01/2018</date>
+    <name>ISHAQ LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>17500</peritem>
+    <total>17500</total>
+    <recieve>0</recieve>
+    <details>KARCHA</details>
+  </person>
+  <person id="317">
+    <date>03/01/2018</date>
+    <name>SYED KHALID SHAH</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>20000</peritem>
+    <total>0</total>
+    <recieve>20000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="318">
+    <date>02/01/2018</date>
+    <name>MEER BAAZ </name>
+    <company>WT</company>
+    <item>MIX BAG</item>
+    <qty>260</qty>
+    <peritem>60</peritem>
+    <total>15600</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="319">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3900500</peritem>
+    <total>0</total>
+    <recieve>3900500</recieve>
+    <details>UTH 24 /31.8.2017</details>
+  </person>
+  <person id="320">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2495000</peritem>
+    <total>0</total>
+    <recieve>2495000</recieve>
+    <details>VIGO 15 /18.9.2017</details>
+  </person>
+  <person id="321">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2377000</peritem>
+    <total>0</total>
+    <recieve>2377000</recieve>
+    <details>OSAKA 01 20.9.2017</details>
+  </person>
+  <person id="322">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2145800</peritem>
+    <total>0</total>
+    <recieve>2145800</recieve>
+    <details>UHT 01 6.10.2017</details>
+  </person>
+  <person id="323">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2420000</peritem>
+    <total>0</total>
+    <recieve>2420000</recieve>
+    <details>OSAKA 02 7.10.2017</details>
+  </person>
+  <person id="324">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>989500</peritem>
+    <total>0</total>
+    <recieve>989500</recieve>
+    <details>BRAVO 01 17.10.2017</details>
+  </person>
+  <person id="325">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1619800</peritem>
+    <total>0</total>
+    <recieve>1619800</recieve>
+    <details>AT 01 21.10.2017</details>
+  </person>
+  <person id="326">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3760500</peritem>
+    <total>0</total>
+    <recieve>3760500</recieve>
+    <details>UHT 25 23.10.2017</details>
+  </person>
+  <person id="327">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2342650</peritem>
+    <total>0</total>
+    <recieve>2342650</recieve>
+    <details>DBK 01 26.10.2017</details>
+  </person>
+  <person id="328">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2402000</peritem>
+    <total>0</total>
+    <recieve>2402000</recieve>
+    <details>JAPAN 1&amp;2 30.10.2017</details>
+  </person>
+  <person id="329">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3895500</peritem>
+    <total>0</total>
+    <recieve>3895500</recieve>
+    <details>UHT 26    22.11.2017</details>
+  </person>
+  <person id="330">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2435500</peritem>
+    <total>0</total>
+    <recieve>2435500</recieve>
+    <details>OSAKA 03 30.11.2017</details>
+  </person>
+  <person id="331">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1744200</peritem>
+    <total>0</total>
+    <recieve>1744200</recieve>
+    <details>JAN 02 30.11.2017</details>
+  </person>
+  <person id="332">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2309000</peritem>
+    <total>0</total>
+    <recieve>2309000</recieve>
+    <details>VIGO 16   9.12.2017</details>
+  </person>
+  <person id="333">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2959000</peritem>
+    <total>0</total>
+    <recieve>2959000</recieve>
+    <details>FANTA 01 14.12.2017</details>
+  </person>
+  <person id="334">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3899500</peritem>
+    <total>0</total>
+    <recieve>3899500</recieve>
+    <details>UHT 27  21.12.2017</details>
+  </person>
+  <person id="335">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2396000</peritem>
+    <total>0</total>
+    <recieve>2396000</recieve>
+    <details>OSAKA 4  21.12.2017</details>
+  </person>
+  <person id="336">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1000000</peritem>
+    <total>1000000</total>
+    <recieve>0</recieve>
+    <details>CHQ 29.8.2017</details>
+  </person>
+  <person id="337">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>UHT</company>
+    <item>
+    </item>
+    <qty>49</qty>
+    <peritem>20000</peritem>
+    <total>980000</total>
+    <recieve>0</recieve>
+    <details>CTL</details>
+  </person>
+  <person id="338">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>UHT</company>
+    <item>
+    </item>
+    <qty>46</qty>
+    <peritem>10000</peritem>
+    <total>460000</total>
+    <recieve>0</recieve>
+    <details>BS</details>
+  </person>
+  <person id="339">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>50000</total>
+    <recieve>0</recieve>
+    <details>CASH </details>
+  </person>
+  <person id="340">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1400000</peritem>
+    <total>1400000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="341">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2856000</peritem>
+    <total>2856000</total>
+    <recieve>0</recieve>
+    <details>20.9.2017 SA 3.10.2017</details>
+  </person>
+  <person id="342">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>9127700</peritem>
+    <total>9127700</total>
+    <recieve>0</recieve>
+    <details>4.10.2017 SA 31.10.2017</details>
+  </person>
+  <person id="343">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>2500000</peritem>
+    <total>5000000</total>
+    <recieve>0</recieve>
+    <details>11.6.2017 SA13.11.2017 </details>
+  </person>
+  <person id="344">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>6611000</peritem>
+    <total>6611000</total>
+    <recieve>0</recieve>
+    <details>21.11.2017 SA 29.11.2017</details>
+  </person>
+  <person id="346">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>7740000</peritem>
+    <total>7740000</total>
+    <recieve>0</recieve>
+    <details>19.12.2017 SA29.12.2017</details>
+  </person>
+  <person id="347">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>9429000</peritem>
+    <total>9429000</total>
+    <recieve>0</recieve>
+    <details>29.11.2017 SA18.12.2017</details>
+  </person>
+  <person id="348">
+    <date>16/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>5000000</peritem>
+    <total>5000000</total>
+    <recieve>0</recieve>
+    <details>SHAID ARIF</details>
+  </person>
+  <person id="349">
+    <date>13/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>720</peritem>
+    <total>720</total>
+    <recieve>0</recieve>
+    <details>KARCHA</details>
+  </person>
+  <person id="350">
+    <date>01/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>40500</peritem>
+    <total>40500</total>
+    <recieve>0</recieve>
+    <details>KATA 406 TOTAL KARCHA </details>
+  </person>
+  <person id="351">
+    <date>17/01/2018</date>
+    <name>HAQ NAWAZ KARACHI</name>
+    <company>UHT</company>
+    <item>TB</item>
+    <qty>2</qty>
+    <peritem>11000</peritem>
+    <total>22000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="352">
+    <date>17/01/2018</date>
+    <name>NABI </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>13</qty>
+    <peritem>3500</peritem>
+    <total>45500</total>
+    <recieve>0</recieve>
+    <details>WHITE SHIRT</details>
+  </person>
+  <person id="354">
+    <date>17/01/2018</date>
+    <name>SHEIKH SAEED PANDI</name>
+    <company>RB</company>
+    <item>KTW</item>
+    <qty>19</qty>
+    <peritem>4000</peritem>
+    <total>76000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="355">
+    <date>17/01/2018</date>
+    <name>SHEIKH SAEED PANDI</name>
+    <company>DBK</company>
+    <item>TEXT-L</item>
+    <qty>8</qty>
+    <peritem>10000</peritem>
+    <total>80000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="356">
+    <date>17/01/2018</date>
+    <name>SHEIKH SAEED PANDI</name>
+    <company>Local</company>
+    <item>Hood</item>
+    <qty>9</qty>
+    <peritem>5000</peritem>
+    <total>45000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="357">
+    <date>17/01/2018</date>
+    <name>M KHAN ZARDRAN </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>25</qty>
+    <peritem>12000</peritem>
+    <total>300000</total>
+    <recieve>0</recieve>
+    <details>MTS</details>
+  </person>
+  <person id="358">
+    <date>17/01/2018</date>
+    <name>M KHAN ZARDRAN </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>13</qty>
+    <peritem>13000</peritem>
+    <total>169000</total>
+    <recieve>0</recieve>
+    <details>LPD</details>
+  </person>
+  <person id="359">
+    <date>17/01/2018</date>
+    <name>HAQ NAWAZ KARACHI</name>
+    <company>SK</company>
+    <item>QBLK</item>
+    <qty>2</qty>
+    <peritem>7000</peritem>
+    <total>14000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="360">
+    <date>17/01/2018</date>
+    <name>Cash Customer</name>
+    <company>Fanta</company>
+    <item>CTL</item>
+    <qty>1</qty>
+    <peritem>10000</peritem>
+    <total>10000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="361">
+    <date>18/01/2018</date>
+    <name>SULTAN</name>
+    <company>Fanta</company>
+    <item>CTL</item>
+    <qty>1</qty>
+    <peritem>11500</peritem>
+    <total>11500</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="362">
+    <date>18/01/2018</date>
+    <name>WALI SHAH TOORI</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>37</qty>
+    <peritem>2000</peritem>
+    <total>74000</total>
+    <recieve>0</recieve>
+    <details>APP 45 KG</details>
+  </person>
+  <person id="363">
+    <date>18/01/2018</date>
+    <name>WALI SHAH TOORI</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>181</qty>
+    <peritem>500</peritem>
+    <total>90500</total>
+    <recieve>0</recieve>
+    <details>T COAT</details>
+  </person>
+  <person id="364">
+    <date>18/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>10000</peritem>
+    <total>0</total>
+    <recieve>10000</recieve>
+    <details>CTL</details>
+  </person>
+  <person id="365">
+    <date>18/01/2018</date>
+    <name>SULTAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>13000</peritem>
+    <total>0</total>
+    <recieve>13000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="366">
+    <date>18/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>70000</peritem>
+    <total>0</total>
+    <recieve>70000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="367">
+    <date>18/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>40000</peritem>
+    <total>0</total>
+    <recieve>40000</recieve>
+    <details>METRO 103773173</details>
+  </person>
+  <person id="368">
+    <date>01/01/2018</date>
+    <name>AHMED SHAH </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>700000</peritem>
+    <total>700000</total>
+    <recieve>0</recieve>
+    <details>10.12.2017 BC KATA </details>
+  </person>
+  <person id="369">
+    <date>10/01/2018</date>
+    <name>AHMED SHAH </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>700000</peritem>
+    <total>700000</total>
+    <recieve>0</recieve>
+    <details>BC </details>
+  </person>
+  <person id="370">
+    <date>19/01/2018</date>
+    <name>YOUNIS MEHSOOD</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>112</qty>
+    <peritem>1000</peritem>
+    <total>112000</total>
+    <recieve>0</recieve>
+    <details>FALEECE</details>
+  </person>
+  <person id="371">
+    <date>19/01/2018</date>
+    <name>YOUNIS MEHSOOD</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>83</qty>
+    <peritem>5500</peritem>
+    <total>456500</total>
+    <recieve>0</recieve>
+    <details>SOCKS KLM</details>
+  </person>
+  <person id="373">
+    <date>19/01/2018</date>
+    <name>YOUNIS MEHSOOD</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>10</qty>
+    <peritem>25000</peritem>
+    <total>250000</total>
+    <recieve>0</recieve>
+    <details>CSWO (A)</details>
+  </person>
+  <person id="374">
+    <date>19/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>Local</company>
+    <item>Shirt</item>
+    <qty>8</qty>
+    <peritem>16000</peritem>
+    <total>128000</total>
+    <recieve>0</recieve>
+    <details>01 number </details>
+  </person>
+  <person id="375">
+    <date>19/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>180</qty>
+    <peritem>1000</peritem>
+    <total>180000</total>
+    <recieve>0</recieve>
+    <details>FLAEECE</details>
+  </person>
+  <person id="376">
+    <date>19/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>15</qty>
+    <peritem>5000</peritem>
+    <total>75000</total>
+    <recieve>0</recieve>
+    <details>L SAWTER </details>
+  </person>
+  <person id="377">
+    <date>19/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>7900</peritem>
+    <total>7900</total>
+    <recieve>0</recieve>
+    <details>KARCHA</details>
+  </person>
+  <person id="378">
+    <date>19/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>MEEZAN ONLINE</details>
+  </person>
+  <person id="379">
+    <date>01/01/2018</date>
+    <name>BISMIALLAH JAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1041</peritem>
+    <total>0</total>
+    <recieve>1041</recieve>
+    <details>claim</details>
+  </person>
+  <person id="380">
+    <date>01/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>30000</peritem>
+    <total>0</total>
+    <recieve>30000</recieve>
+    <details>claim</details>
+  </person>
+  <person id="381">
+    <date>01/01/2018</date>
+    <name>SAEED KHAN LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>750</peritem>
+    <total>0</total>
+    <recieve>750</recieve>
+    <details>claim</details>
+  </person>
+  <person id="382">
+    <date>01/01/2018</date>
+    <name>SAJAWAL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>15000</peritem>
+    <total>0</total>
+    <recieve>15000</recieve>
+    <details>claim</details>
+  </person>
+  <person id="383">
+    <date>01/01/2018</date>
+    <name>SALEEM LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>16000</peritem>
+    <total>0</total>
+    <recieve>16000</recieve>
+    <details>cliam</details>
+  </person>
+  <person id="384">
+    <date>01/01/2018</date>
+    <name>SAQIB NAEEM LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>36350</peritem>
+    <total>0</total>
+    <recieve>36350</recieve>
+    <details>claim</details>
+  </person>
+  <person id="386">
+    <date>01/01/2018</date>
+    <name>SARWAR HANIF</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>7500</peritem>
+    <total>0</total>
+    <recieve>7500</recieve>
+    <details>claim</details>
+  </person>
+  <person id="387">
+    <date>01/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>30000</peritem>
+    <total>0</total>
+    <recieve>30000</recieve>
+    <details>claim</details>
+  </person>
+  <person id="388">
+    <date>15/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>8250</peritem>
+    <total>0</total>
+    <recieve>8250</recieve>
+    <details>F&amp;H TOYS 75</details>
+  </person>
+  <person id="389">
+    <date>13/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>46200</peritem>
+    <total>0</total>
+    <recieve>46200</recieve>
+    <details>CASH KTW </details>
+  </person>
+  <person id="390">
+    <date>19/01/2018</date>
+    <name>AQEEL LIGHTHOUSE</name>
+    <company>AALI</company>
+    <item>
+    </item>
+    <qty>898</qty>
+    <peritem>100</peritem>
+    <total>89800</total>
+    <recieve>0</recieve>
+    <details>MIX BAG</details>
+  </person>
+  <person id="391">
+    <date>20/01/2018</date>
+    <name>MAJEED ATWN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>ALLFALH 93569128</details>
+  </person>
+  <person id="392">
+    <date>20/01/2018</date>
+    <name>MAJEED ATWN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>JS 28905788</details>
+  </person>
+  <person id="393">
+    <date>19/01/2018</date>
+    <name>YOUNIS MEHSOOD</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>84</qty>
+    <peritem>3500</peritem>
+    <total>294000</total>
+    <recieve>0</recieve>
+    <details>SPRING WERA</details>
+  </person>
+  <person id="394">
+    <date>20/01/2018</date>
+    <name>WALI SHAH TOORI</name>
+    <company>Local</company>
+    <item>Shirt</item>
+    <qty>9</qty>
+    <peritem>10000</peritem>
+    <total>90000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="395">
+    <date>19/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>12</qty>
+    <peritem>3500</peritem>
+    <total>42000</total>
+    <recieve>0</recieve>
+    <details>MTP</details>
+  </person>
+  <person id="396">
+    <date>22/01/2018</date>
+    <name>YOUNIS MEHSOOD</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>300000</peritem>
+    <total>0</total>
+    <recieve>300000</recieve>
+    <details>CHQ18937317</details>
+  </person>
+  <person id="397">
+    <date>22/01/2018</date>
+    <name>YOUNIS MEHSOOD</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>300000</peritem>
+    <total>0</total>
+    <recieve>300000</recieve>
+    <details>CHQ 18937318</details>
+  </person>
+  <person id="398">
+    <date>22/01/2018</date>
+    <name>ALLAH GUL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="399">
+    <date>01/01/2018</date>
+    <name>ALLAH GUL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>8000</peritem>
+    <total>0</total>
+    <recieve>8000</recieve>
+    <details>CLAIM</details>
+  </person>
+  <person id="400">
+    <date>20/01/2018</date>
+    <name>UBAID H COAT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>117000</peritem>
+    <total>0</total>
+    <recieve>117000</recieve>
+    <details>CHQ 0882984945</details>
+  </person>
+  <person id="402">
+    <date>17/10/2017</date>
+    <name>NAIK M SHAH JEE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1119000</peritem>
+    <total>1119000</total>
+    <recieve>0</recieve>
+    <details>BLANCE KATA 53</details>
+  </person>
+  <person id="403">
+    <date>11/12/2017</date>
+    <name>NAIK M SHAH JEE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="404">
+    <date>11/12/2017</date>
+    <name>NAIK M SHAH JEE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>AKBER </details>
+  </person>
+  <person id="405">
+    <date>11/12/2017</date>
+    <name>NAIK M SHAH JEE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>ALLFALH ONLINE</details>
+  </person>
+  <person id="406">
+    <date>14/12/2017</date>
+    <name>NAIK M SHAH JEE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>CASH SHAHZAIN</details>
+  </person>
+  <person id="407">
+    <date>25/12/2017</date>
+    <name>NAIK M SHAH JEE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>CASH SHAH JEE</details>
+  </person>
+  <person id="408">
+    <date>01/01/2018</date>
+    <name>NAIK M SHAH JEE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="409">
+    <date>08/01/2018</date>
+    <name>NAIK M SHAH JEE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="410">
+    <date>16/01/2018</date>
+    <name>NAIK M SHAH JEE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="411">
+    <date>05/01/2018</date>
+    <name>USMAN BHAI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1</peritem>
+    <total>0</total>
+    <recieve>1</recieve>
+    <details>WICOX </details>
+  </person>
+  <person id="412">
+    <date>10/01/2018</date>
+    <name>USMAN BHAI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1</peritem>
+    <total>0</total>
+    <recieve>1</recieve>
+    <details>SONY</details>
+  </person>
+  <person id="414">
+    <date>22/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="415">
+    <date>22/01/2018</date>
+    <name>ASIF RASHEED</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>108000</peritem>
+    <total>0</total>
+    <recieve>108000</recieve>
+    <details>CHQ AL HABIB 11289459</details>
+  </person>
+  <person id="416">
+    <date>22/01/2018</date>
+    <name>WALI SHAH TOORI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>MEEZAN 06127221 </details>
+  </person>
+  <person id="417">
+    <date>18/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>WCS</company>
+    <item>PLASTIC</item>
+    <qty>4165</qty>
+    <peritem>33</peritem>
+    <total>137445</total>
+    <recieve>0</recieve>
+    <details>9 BALES</details>
+  </person>
+  <person id="418">
+    <date>22/01/2018</date>
+    <name>NAIK M SHAH JEE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>69000</peritem>
+    <total>0</total>
+    <recieve>69000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="419">
+    <date>22/01/2018</date>
+    <name>BADSHAH SAMNA </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>300000</peritem>
+    <total>0</total>
+    <recieve>300000</recieve>
+    <details>HBL 0478539</details>
+  </person>
+  <person id="420">
+    <date>22/01/2018</date>
+    <name>BADSHAH SAMNA </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>200000</peritem>
+    <total>0</total>
+    <recieve>200000</recieve>
+    <details>HBL 0478542</details>
+  </person>
+  <person id="421">
+    <date>22/01/2018</date>
+    <name>BADSHAH SAMNA </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>HBL 0478541</details>
+  </person>
+  <person id="422">
+    <date>22/01/2018</date>
+    <name>Cash Customer</name>
+    <company>SD</company>
+    <item>OVERALL</item>
+    <qty>2</qty>
+    <peritem>3500</peritem>
+    <total>7000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="423">
+    <date>22/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>7000</peritem>
+    <total>0</total>
+    <recieve>7000</recieve>
+    <details>CASH OVER ALL</details>
+  </person>
+  <person id="424">
+    <date>22/01/2018</date>
+    <name>WASEEM PINDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>96000</peritem>
+    <total>0</total>
+    <recieve>96000</recieve>
+    <details>AL HABIB ONLINE</details>
+  </person>
+  <person id="425">
+    <date>06/01/2018</date>
+    <name>AMEER ALI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>221619</peritem>
+    <total>221619</total>
+    <recieve>0</recieve>
+    <details>TOTAL JAMA </details>
+  </person>
+  <person id="426">
+    <date>22/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>WCS</company>
+    <item>PLASTIC</item>
+    <qty>1215</qty>
+    <peritem>33</peritem>
+    <total>40095</total>
+    <recieve>0</recieve>
+    <details>3</details>
+  </person>
+  <person id="427">
+    <date>22/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>WCS</company>
+    <item>PLASTIC</item>
+    <qty>1205</qty>
+    <peritem>33</peritem>
+    <total>39765</total>
+    <recieve>0</recieve>
+    <details>3 BALES</details>
+  </person>
+  <person id="428">
+    <date>22/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>WCS</company>
+    <item>PLASTIC</item>
+    <qty>1280</qty>
+    <peritem>33</peritem>
+    <total>42240</total>
+    <recieve>0</recieve>
+    <details>3 BALES TOTAL 3700 KG</details>
+  </person>
+  <person id="429">
+    <date>23/01/2018</date>
+    <name>FIDA HUSSAIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1450000</peritem>
+    <total>1450000</total>
+    <recieve>0</recieve>
+    <details>chq/cash</details>
+  </person>
+  <person id="430">
+    <date>23/01/2018</date>
+    <name>JAHANGIR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>ALFALAH ONLINE</details>
+  </person>
+  <person id="431">
+    <date>23/01/2018</date>
+    <name>SHEIKH JAWAID LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>41250</peritem>
+    <total>0</total>
+    <recieve>41250</recieve>
+    <details>AL HABIB ONLINE</details>
+  </person>
+  <person id="432">
+    <date>23/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>63000</peritem>
+    <total>0</total>
+    <recieve>63000</recieve>
+    <details>06421719/06421732</details>
+  </person>
+  <person id="433">
+    <date>13/01/2018</date>
+    <name>FIDA HUSSAIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>48</qty>
+    <peritem>60</peritem>
+    <total>2880</total>
+    <recieve>0</recieve>
+    <details>KARCHA BORI</details>
+  </person>
+  <person id="434">
+    <date>23/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>250000</peritem>
+    <total>0</total>
+    <recieve>250000</recieve>
+    <details>MEEZAN ONLINE</details>
+  </person>
+  <person id="435">
+    <date>23/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1000</peritem>
+    <total>0</total>
+    <recieve>1000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="436">
+    <date>23/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>40000</peritem>
+    <total>0</total>
+    <recieve>40000</recieve>
+    <details>CASH SHAH JEE</details>
+  </person>
+  <person id="437">
+    <date>23/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>60000</peritem>
+    <total>0</total>
+    <recieve>60000</recieve>
+    <details>AL HABIB ONLINE</details>
+  </person>
+  <person id="438">
+    <date>23/01/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>200000</peritem>
+    <total>0</total>
+    <recieve>200000</recieve>
+    <details>CASH SHAHZAIN</details>
+  </person>
+  <person id="439">
+    <date>23/01/2018</date>
+    <name>HAQ NAWAZ KARACHI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>70000</peritem>
+    <total>0</total>
+    <recieve>70000</recieve>
+    <details>CHQ 05866006</details>
+  </person>
+  <person id="440">
+    <date>23/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3000</peritem>
+    <total>3000</total>
+    <recieve>0</recieve>
+    <details>CASH RATAN</details>
+  </person>
+  <person id="441">
+    <date>23/01/2018</date>
+    <name>Cash Customer</name>
+    <company>DBK</company>
+    <item>COTN COAT</item>
+    <qty>5</qty>
+    <peritem>5000</peritem>
+    <total>25000</total>
+    <recieve>0</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="442">
+    <date>23/01/2018</date>
+    <name>Cash Customer</name>
+    <company>Hi-top</company>
+    <item>MS</item>
+    <qty>7</qty>
+    <peritem>5000</peritem>
+    <total>35000</total>
+    <recieve>0</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="443">
+    <date>23/01/2018</date>
+    <name>Cash Customer</name>
+    <company>IK</company>
+    <item>L-Bag</item>
+    <qty>2</qty>
+    <peritem>12000</peritem>
+    <total>24000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="444">
+    <date>23/01/2018</date>
+    <name>Cash Customer</name>
+    <company>IK</company>
+    <item>TB</item>
+    <qty>2</qty>
+    <peritem>13500</peritem>
+    <total>27000</total>
+    <recieve>0</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="445">
+    <date>23/01/2018</date>
+    <name>Cash Customer</name>
+    <company>UHT</company>
+    <item>TB</item>
+    <qty>1</qty>
+    <peritem>11000</peritem>
+    <total>11000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="446">
+    <date>23/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>189000</peritem>
+    <total>189000</total>
+    <recieve>0</recieve>
+    <details>CASH RETAN</details>
+  </person>
+  <person id="447">
+    <date>23/01/2018</date>
+    <name>UBAID H COAT</name>
+    <company>DBK</company>
+    <item>MSJBLAK</item>
+    <qty>18</qty>
+    <peritem>6500</peritem>
+    <total>117000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="448">
+    <date>23/01/2018</date>
+    <name>RIAZ PINDI</name>
+    <company>AT</company>
+    <item>MTS</item>
+    <qty>18</qty>
+    <peritem>11500</peritem>
+    <total>207000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="449">
+    <date>23/01/2018</date>
+    <name>RIAZ PINDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1560</peritem>
+    <total>1560</total>
+    <recieve>0</recieve>
+    <details>KARCHA</details>
+  </person>
+  <person id="450">
+    <date>23/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>MEEZAN ONLINE</details>
+  </person>
+  <person id="451">
+    <date>23/01/2018</date>
+    <name>QAYYUM KAMRAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>500000</peritem>
+    <total>0</total>
+    <recieve>500000</recieve>
+    <details>CHQ 05102860</details>
+  </person>
+  <person id="452">
+    <date>23/01/2018</date>
+    <name>QAYYUM KAMRAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>500000</peritem>
+    <total>0</total>
+    <recieve>500000</recieve>
+    <details>CHQ 05102861</details>
+  </person>
+  <person id="453">
+    <date>23/01/2018</date>
+    <name>QAYYUM KAMRAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>520000</peritem>
+    <total>0</total>
+    <recieve>520000</recieve>
+    <details>CHQ 05102862</details>
+  </person>
+  <person id="454">
+    <date>23/01/2018</date>
+    <name>M NAIK </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>95000</peritem>
+    <total>0</total>
+    <recieve>95000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="455">
+    <date>23/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>AL HABIB ONLINE</details>
+  </person>
+  <person id="456">
+    <date>23/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>AL HABIB ONLINE</details>
+  </person>
+  <person id="457">
+    <date>17/01/2018</date>
+    <name>NABI </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>7000</peritem>
+    <total>7000</total>
+    <recieve>0</recieve>
+    <details>Socks</details>
+  </person>
+  <person id="458">
+    <date>24/01/2018</date>
+    <name>NABI </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>10100</peritem>
+    <total>0</total>
+    <recieve>10100</recieve>
+    <details>CLAIM</details>
+  </person>
+  <person id="459">
+    <date>24/01/2018</date>
+    <name>NABI </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>45000</peritem>
+    <total>0</total>
+    <recieve>45000</recieve>
+    <details>CHQ 10567290</details>
+  </person>
+  <person id="460">
+    <date>01/01/2018</date>
+    <name>SHOP 35 AQIB</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>40000</peritem>
+    <total>0</total>
+    <recieve>40000</recieve>
+    <details>SELL</details>
+  </person>
+  <person id="461">
+    <date>02/01/2018</date>
+    <name>SHOP 35 AQIB</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>84500</peritem>
+    <total>0</total>
+    <recieve>84500</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="462">
+    <date>03/01/2018</date>
+    <name>SHOP 35 AQIB</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>15000</peritem>
+    <total>0</total>
+    <recieve>15000</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="463">
+    <date>23/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>WCS</company>
+    <item>L UNDRWR</item>
+    <qty>1</qty>
+    <peritem>2400</peritem>
+    <total>2400</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="464">
+    <date>24/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>200000</peritem>
+    <total>200000</total>
+    <recieve>0</recieve>
+    <details>CASH </details>
+  </person>
+  <person id="465">
+    <date>24/01/2018</date>
+    <name>IBRAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>203500</peritem>
+    <total>0</total>
+    <recieve>203500</recieve>
+    <details>AL HABIB ONLINE</details>
+  </person>
+  <person id="466">
+    <date>24/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>CHQ 10432656</details>
+  </person>
+  <person id="468">
+    <date>24/01/2018</date>
+    <name>SAEED KHAN PINDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>300000</peritem>
+    <total>0</total>
+    <recieve>300000</recieve>
+    <details>ALLFALH ONLINE</details>
+  </person>
+  <person id="469">
+    <date>24/01/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>13000</peritem>
+    <total>0</total>
+    <recieve>13000</recieve>
+    <details>KLAID</details>
+  </person>
+  <person id="470">
+    <date>24/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>140000</peritem>
+    <total>0</total>
+    <recieve>140000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="471">
+    <date>24/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>CHQ 14853419</details>
+  </person>
+  <person id="472">
+    <date>24/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>100000</total>
+    <recieve>0</recieve>
+    <details>CHQ CHANGX</details>
+  </person>
+  <person id="482">
+    <date>24/01/2018</date>
+    <name>Cash Customer</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>13</qty>
+    <peritem>1000</peritem>
+    <total>13000</total>
+    <recieve>0</recieve>
+    <details>COATRI PANYS</details>
+  </person>
+  <person id="483">
+    <date>24/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>Local</company>
+    <item>TEXT</item>
+    <qty>63</qty>
+    <peritem>6000</peritem>
+    <total>378000</total>
+    <recieve>0</recieve>
+    <details>MIX COMPNY</details>
+  </person>
+  <person id="484">
+    <date>24/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>4060</peritem>
+    <total>4060</total>
+    <recieve>0</recieve>
+    <details>KARCHA</details>
+  </person>
+  <person id="485">
+    <date>24/01/2018</date>
+    <name>ASIF RASHEED</name>
+    <company>LUCKY</company>
+    <item>
+    </item>
+    <qty>265</qty>
+    <peritem>65</peritem>
+    <total>17225</total>
+    <recieve>0</recieve>
+    <details>HHR</details>
+  </person>
+  <person id="486">
+    <date>24/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>23</qty>
+    <peritem>8000</peritem>
+    <total>184000</total>
+    <recieve>0</recieve>
+    <details>TEXT </details>
+  </person>
+  <person id="487">
+    <date>24/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>8000</peritem>
+    <total>8000</total>
+    <recieve>0</recieve>
+    <details>WHIRTE BED</details>
+  </person>
+  <person id="488">
+    <date>24/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>5000</peritem>
+    <total>5000</total>
+    <recieve>0</recieve>
+    <details>NIGTY</details>
+  </person>
+  <person id="492">
+    <date>24/01/2018</date>
+    <name>SHEHZAD LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>65000</peritem>
+    <total>0</total>
+    <recieve>65000</recieve>
+    <details>HBL ONLINE</details>
+  </person>
+  <person id="493">
+    <date>24/01/2018</date>
+    <name>SAEED KHAN PINDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>26</qty>
+    <peritem>1500</peritem>
+    <total>0</total>
+    <recieve>39000</recieve>
+    <details>CLAIM  QC</details>
+  </person>
+  <person id="494">
+    <date>25/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>Online Al-Habib</details>
+  </person>
+  <person id="495">
+    <date>25/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>40000</peritem>
+    <total>0</total>
+    <recieve>40000</recieve>
+    <details>Online Al-Habib</details>
+  </person>
+  <person id="496">
+    <date>25/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>Fanta</company>
+    <item>CTL</item>
+    <qty>2</qty>
+    <peritem>10000</peritem>
+    <total>20000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="497">
+    <date>25/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>DBK</company>
+    <item>KTW</item>
+    <qty>2</qty>
+    <peritem>4500</peritem>
+    <total>9000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="498">
+    <date>25/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>Bravo</company>
+    <item>CTL</item>
+    <qty>1</qty>
+    <peritem>10000</peritem>
+    <total>10000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="499">
+    <date>25/01/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>24</qty>
+    <peritem>3000</peritem>
+    <total>72000</total>
+    <recieve>0</recieve>
+    <details>Boy Pant 45kg</details>
+  </person>
+  <person id="500">
+    <date>25/01/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>840</peritem>
+    <total>840</total>
+    <recieve>0</recieve>
+    <details>Expence</details>
+  </person>
+  <person id="501">
+    <date>25/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>5</qty>
+    <peritem>1000</peritem>
+    <total>5000</total>
+    <recieve>0</recieve>
+    <details>FL</details>
+  </person>
+  <person id="502">
+    <date>25/01/2018</date>
+    <name>KHALID FAQEER COLONY</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>116</qty>
+    <peritem>700</peritem>
+    <total>81200</total>
+    <recieve>0</recieve>
+    <details>Cordroy</details>
+  </person>
+  <person id="503">
+    <date>25/01/2018</date>
+    <name>KHALID FAQEER COLONY</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>6</qty>
+    <peritem>3300</peritem>
+    <total>19800</total>
+    <recieve>0</recieve>
+    <details>MTP</details>
+  </person>
+  <person id="504">
+    <date>26/01/2018</date>
+    <name>KHALID FAQEER COLONY</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>Meezan A5816858</details>
+  </person>
+  <person id="505">
+    <date>25/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>6</qty>
+    <peritem>5000</peritem>
+    <total>30000</total>
+    <recieve>0</recieve>
+    <details>CTW</details>
+  </person>
+  <person id="506">
+    <date>25/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>820</peritem>
+    <total>820</total>
+    <recieve>0</recieve>
+    <details>Expence</details>
+  </person>
+  <person id="507">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>RB</company>
+    <item>KTW</item>
+    <qty>2</qty>
+    <peritem>4000</peritem>
+    <total>8000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="508">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Hi-top</company>
+    <item>KTW</item>
+    <qty>1</qty>
+    <peritem>4000</peritem>
+    <total>4000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="509">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>SB</company>
+    <item>KTW</item>
+    <qty>5</qty>
+    <peritem>4000</peritem>
+    <total>20000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="510">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Local</company>
+    <item>KTW</item>
+    <qty>9</qty>
+    <peritem>4000</peritem>
+    <total>36000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="511">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>DBK</company>
+    <item>KTW</item>
+    <qty>5</qty>
+    <peritem>4000</peritem>
+    <total>20000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="512">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>SK</company>
+    <item>KTW</item>
+    <qty>3</qty>
+    <peritem>4000</peritem>
+    <total>12000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="513">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1700</peritem>
+    <total>1700</total>
+    <recieve>0</recieve>
+    <details>Expence</details>
+  </person>
+  <person id="515">
+    <date>25/01/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>4</qty>
+    <peritem>3000</peritem>
+    <total>12000</total>
+    <recieve>0</recieve>
+    <details>Men Cotton Shirts 45kg</details>
+  </person>
+  <person id="516">
+    <date>26/01/2018</date>
+    <name>FIDA HUSSAIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>RETURN HBL0478547</details>
+  </person>
+  <person id="517">
+    <date>25/01/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>11</qty>
+    <peritem>500</peritem>
+    <total>5500</total>
+    <recieve>0</recieve>
+    <details>MIX SHIRTS 45kg</details>
+  </person>
+  <person id="518">
+    <date>25/01/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1</peritem>
+    <total>1</total>
+    <recieve>0</recieve>
+    <details>TIE</details>
+  </person>
+  <person id="519">
+    <date>25/01/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2500</peritem>
+    <total>2500</total>
+    <recieve>0</recieve>
+    <details>M WOOLEN SHIRTS 100kg</details>
+  </person>
+  <person id="520">
+    <date>25/01/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>63</qty>
+    <peritem>3300</peritem>
+    <total>207900</total>
+    <recieve>0</recieve>
+    <details>MTP</details>
+  </person>
+  <person id="521">
+    <date>25/01/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>29</qty>
+    <peritem>2500</peritem>
+    <total>72500</total>
+    <recieve>0</recieve>
+    <details>CWW</details>
+  </person>
+  <person id="522">
+    <date>25/01/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>3300</peritem>
+    <total>6600</total>
+    <recieve>0</recieve>
+    <details>MCP</details>
+  </person>
+  <person id="523">
+    <date>25/01/2018</date>
+    <name>Jumma Muhammad (Saloo)</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>5</qty>
+    <peritem>3000</peritem>
+    <total>15000</total>
+    <recieve>0</recieve>
+    <details>Nylone Sports Jackets</details>
+  </person>
+  <person id="524">
+    <date>25/01/2018</date>
+    <name>Jumma Muhammad (Saloo)</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>3</qty>
+    <peritem>3000</peritem>
+    <total>9000</total>
+    <recieve>0</recieve>
+    <details>ATWN 45kg</details>
+  </person>
+  <person id="525">
+    <date>25/01/2018</date>
+    <name>Jumma Muhammad (Saloo)</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>2000</peritem>
+    <total>4000</total>
+    <recieve>0</recieve>
+    <details>Stichable</details>
+  </person>
+  <person id="526">
+    <date>25/01/2018</date>
+    <name>Jumma Muhammad (Saloo)</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2500</peritem>
+    <total>2500</total>
+    <recieve>0</recieve>
+    <details>RN 45kg</details>
+  </person>
+  <person id="527">
+    <date>25/01/2018</date>
+    <name>Jumma Muhammad (Saloo)</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>9</qty>
+    <peritem>3000</peritem>
+    <total>27000</total>
+    <recieve>0</recieve>
+    <details>ATWN 80kg</details>
+  </person>
+  <person id="528">
+    <date>25/01/2018</date>
+    <name>Jumma Muhammad (Saloo)</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>5</qty>
+    <peritem>5000</peritem>
+    <total>25000</total>
+    <recieve>0</recieve>
+    <details>SOCKS</details>
+  </person>
+  <person id="529">
+    <date>25/01/2018</date>
+    <name>Jumma Muhammad (Saloo)</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>5000</peritem>
+    <total>5000</total>
+    <recieve>0</recieve>
+    <details>ATWN</details>
+  </person>
+  <person id="530">
+    <date>25/01/2018</date>
+    <name>Jumma Muhammad (Saloo)</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>7</qty>
+    <peritem>5000</peritem>
+    <total>35000</total>
+    <recieve>0</recieve>
+    <details>SOCKS</details>
+  </person>
+  <person id="531">
+    <date>25/01/2018</date>
+    <name>M NAIK </name>
+    <company>LUCKY</company>
+    <item>
+    </item>
+    <qty>7605</qty>
+    <peritem>122</peritem>
+    <total>927810</total>
+    <recieve>0</recieve>
+    <details>B &amp; B</details>
+  </person>
+  <person id="532">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>8000</peritem>
+    <total>8000</total>
+    <recieve>0</recieve>
+    <details>WBS</details>
+  </person>
+  <person id="533">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>8000</peritem>
+    <total>16000</total>
+    <recieve>0</recieve>
+    <details>Textile</details>
+  </person>
+  <person id="534">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>4</qty>
+    <peritem>8000</peritem>
+    <total>32000</total>
+    <recieve>0</recieve>
+    <details>CTH</details>
+  </person>
+  <person id="535">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>3000</peritem>
+    <total>6000</total>
+    <recieve>0</recieve>
+    <details>HHR</details>
+  </person>
+  <person id="536">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3000</peritem>
+    <total>3000</total>
+    <recieve>0</recieve>
+    <details>Pillow Cussion</details>
+  </person>
+  <person id="537">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>8000</peritem>
+    <total>8000</total>
+    <recieve>0</recieve>
+    <details>CBS</details>
+  </person>
+  <person id="538">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>4000</peritem>
+    <total>4000</total>
+    <recieve>0</recieve>
+    <details>KTW</details>
+  </person>
+  <person id="539">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3000</peritem>
+    <total>3000</total>
+    <recieve>0</recieve>
+    <details>ladies Slips</details>
+  </person>
+  <person id="540">
+    <date>25/01/2018</date>
+    <name>AMJAD CPT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>100000</total>
+    <recieve>0</recieve>
+    <details>Returm CHQ 2</details>
+  </person>
+  <person id="541">
+    <date>25/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>860</peritem>
+    <total>860</total>
+    <recieve>0</recieve>
+    <details>Expence</details>
+  </person>
+  <person id="542">
+    <date>26/01/2018</date>
+    <name>MEER BAAZ </name>
+    <company>IK</company>
+    <item>TB</item>
+    <qty>1</qty>
+    <peritem>14000</peritem>
+    <total>14000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="543">
+    <date>25/01/2018</date>
+    <name>M NAIK </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>Meezan A-24687438</details>
+  </person>
+  <person id="544">
+    <date>25/01/2018</date>
+    <name>M NAIK </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>Meezan 440</details>
+  </person>
+  <person id="545">
+    <date>25/01/2018</date>
+    <name>M NAIK </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>200000</peritem>
+    <total>0</total>
+    <recieve>200000</recieve>
+    <details>meezan 439</details>
+  </person>
+  <person id="546">
+    <date>25/01/2018</date>
+    <name>M NAIK </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>200000</peritem>
+    <total>0</total>
+    <recieve>200000</recieve>
+    <details>Meezan 276</details>
+  </person>
+  <person id="547">
+    <date>25/01/2018</date>
+    <name>Habibullah (GULDAD)</name>
+    <company>LUCKY</company>
+    <item>
+    </item>
+    <qty>1200</qty>
+    <peritem>18</peritem>
+    <total>21600</total>
+    <recieve>0</recieve>
+    <details>MIX ITEMS</details>
+  </person>
+  <person id="548">
+    <date>25/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>WCS</company>
+    <item>PLASTIC</item>
+    <qty>1540</qty>
+    <peritem>33</peritem>
+    <total>50820</total>
+    <recieve>0</recieve>
+    <details>3 Bales</details>
+  </person>
+  <person id="549">
+    <date>25/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>WCS</company>
+    <item>PLASTIC</item>
+    <qty>1255</qty>
+    <peritem>33</peritem>
+    <total>41415</total>
+    <recieve>0</recieve>
+    <details>3 Bales</details>
+  </person>
+  <person id="551">
+    <date>24/01/2018</date>
+    <name>SAQIB ZULFIQAR LAHORE</name>
+    <company>Local</company>
+    <item>HHR</item>
+    <qty>14</qty>
+    <peritem>3000</peritem>
+    <total>42000</total>
+    <recieve>0</recieve>
+    <details>YC</details>
+  </person>
+  <person id="552">
+    <date>24/01/2018</date>
+    <name>SAQIB ZULFIQAR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3000</peritem>
+    <total>3000</total>
+    <recieve>0</recieve>
+    <details>HHR</details>
+  </person>
+  <person id="553">
+    <date>24/01/2018</date>
+    <name>SAQIB ZULFIQAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1000</peritem>
+    <total>1000</total>
+    <recieve>0</recieve>
+    <details>KARCHA </details>
+  </person>
+  <person id="554">
+    <date>17/01/2018</date>
+    <name>SHEIKH SAEED PANDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2500</peritem>
+    <total>2500</total>
+    <recieve>0</recieve>
+    <details>Expence</details>
+  </person>
+  <person id="555">
+    <date>27/01/2018</date>
+    <name>GHAFOOR NOOR MUHAMMAD</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>870</peritem>
+    <total>0</total>
+    <recieve>870</recieve>
+    <details>Claim </details>
+  </person>
+  <person id="556">
+    <date>27/01/2018</date>
+    <name>GOHAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>53060</peritem>
+    <total>0</total>
+    <recieve>53060</recieve>
+    <details>Cash Received</details>
+  </person>
+  <person id="557">
+    <date>27/01/2018</date>
+    <name>FIDA HUSSAIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>100000</total>
+    <recieve>0</recieve>
+    <details>Alfalah 11619105</details>
+  </person>
+  <person id="558">
+    <date>26/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>10000</peritem>
+    <total>10000</total>
+    <recieve>0</recieve>
+    <details>Cash from ShahJee</details>
+  </person>
+  <person id="559">
+    <date>25/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>WCS</company>
+    <item>PLASTIC</item>
+    <qty>1430</qty>
+    <peritem>33</peritem>
+    <total>47190</total>
+    <recieve>0</recieve>
+    <details>3 BALES (9 BALES 4225kg)</details>
+  </person>
+  <person id="560">
+    <date>24/01/2018</date>
+    <name>AMJAD LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1700</peritem>
+    <total>1700</total>
+    <recieve>0</recieve>
+    <details>Expence</details>
+  </person>
+  <person id="561">
+    <date>31/12/2017</date>
+    <name>HAFIZ NAZIM LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>11810</peritem>
+    <total>0</total>
+    <recieve>11810</recieve>
+    <details>Claim</details>
+  </person>
+  <person id="562">
+    <date>31/12/2017</date>
+    <name>AMAN SAHIWAL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3300</peritem>
+    <total>0</total>
+    <recieve>3300</recieve>
+    <details>Claim</details>
+  </person>
+  <person id="563">
+    <date>25/01/2018</date>
+    <name>SHAHBAZ JARANWALA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>900</peritem>
+    <total>900</total>
+    <recieve>0</recieve>
+    <details>Expence</details>
+  </person>
+  <person id="564">
+    <date>27/01/2018</date>
+    <name>WASEEM PINDI</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>500</peritem>
+    <total>0</total>
+    <recieve>500</recieve>
+    <details>Claim</details>
+  </person>
+  <person id="566">
+    <date>27/01/2018</date>
+    <name>ZAHIR SHAH</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>6000</peritem>
+    <total>0</total>
+    <recieve>6000</recieve>
+    <details>Received Shahjee</details>
+  </person>
+  <person id="567">
+    <date>27/01/2018</date>
+    <name>SAQIB LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>9150</peritem>
+    <total>9150</total>
+    <recieve>0</recieve>
+    <details>Return Cash by Shahjee</details>
+  </person>
+  <person id="568">
+    <date>05/01/2018</date>
+    <name>SHEHZAD LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1100</peritem>
+    <total>1100</total>
+    <recieve>0</recieve>
+    <details>Expence</details>
+  </person>
+  <person id="569">
+    <date>27/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>12000</peritem>
+    <total>0</total>
+    <recieve>12000</recieve>
+    <details>Claim</details>
+  </person>
+  <person id="570">
+    <date>27/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>14</qty>
+    <peritem>5000</peritem>
+    <total>0</total>
+    <recieve>70000</recieve>
+    <details>Return L-Sweeter</details>
+  </person>
+  <person id="571">
+    <date>27/01/2018</date>
+    <name>ALLAH GUL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>Received Cash</details>
+  </person>
+  <person id="572">
+    <date>26/01/2018</date>
+    <name>ZABIULLAH</name>
+    <company>SD</company>
+    <item>SPORT</item>
+    <qty>15</qty>
+    <peritem>2500</peritem>
+    <total>37500</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="573">
+    <date>26/01/2018</date>
+    <name>ZABIULLAH</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>15</qty>
+    <peritem>3500</peritem>
+    <total>52500</total>
+    <recieve>0</recieve>
+    <details>Leather</details>
+  </person>
+  <person id="574">
+    <date>26/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>10</qty>
+    <peritem>1000</peritem>
+    <total>10000</total>
+    <recieve>0</recieve>
+    <details>LJP</details>
+  </person>
+  <person id="575">
+    <date>26/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2500</peritem>
+    <total>2500</total>
+    <recieve>0</recieve>
+    <details>CARGO</details>
+  </person>
+  <person id="576">
+    <date>26/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3000</peritem>
+    <total>3000</total>
+    <recieve>0</recieve>
+    <details>MCP</details>
+  </person>
+  <person id="577">
+    <date>26/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>840</peritem>
+    <total>840</total>
+    <recieve>0</recieve>
+    <details>Expence</details>
+  </person>
+  <person id="578">
+    <date>26/01/2018</date>
+    <name>Ali Kabul</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>13</qty>
+    <peritem>2000</peritem>
+    <total>26000</total>
+    <recieve>0</recieve>
+    <details>APP</details>
+  </person>
+  <person id="579">
+    <date>26/01/2018</date>
+    <name>Ali Kabul</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1500</peritem>
+    <total>1500</total>
+    <recieve>0</recieve>
+    <details>ATWC</details>
+  </person>
+  <person id="580">
+    <date>26/01/2018</date>
+    <name>Ali Kabul</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>880</peritem>
+    <total>880</total>
+    <recieve>0</recieve>
+    <details>EXPENCE</details>
+  </person>
+  <person id="581">
+    <date>29/01/2018</date>
+    <name>ZABIULLAH</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>77500</peritem>
+    <total>0</total>
+    <recieve>77500</recieve>
+    <details>Al Habib 10346860</details>
+  </person>
+  <person id="582">
+    <date>29/01/2018</date>
+    <name>AQEEL LIGHTHOUSE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>75000</peritem>
+    <total>0</total>
+    <recieve>75000</recieve>
+    <details>Cash</details>
+  </person>
+  <person id="583">
+    <date>29/01/2018</date>
+    <name>M NAIK </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>Meezan 28635277</details>
+  </person>
+  <person id="584">
+    <date>29/01/2018</date>
+    <name>M NAIK </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>67000</peritem>
+    <total>0</total>
+    <recieve>67000</recieve>
+    <details>Cash</details>
+  </person>
+  <person id="585">
+    <date>29/01/2018</date>
+    <name>KHALID FAQEER COLONY</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>Online Faysal</details>
+  </person>
+  <person id="586">
+    <date>29/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>habib metro 103773178</details>
+  </person>
+  <person id="587">
+    <date>29/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>40000</peritem>
+    <total>0</total>
+    <recieve>40000</recieve>
+    <details>chq 79</details>
+  </person>
+  <person id="588">
+    <date>29/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>40000</peritem>
+    <total>0</total>
+    <recieve>40000</recieve>
+    <details>Chq 80</details>
+  </person>
+  <person id="589">
+    <date>29/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>15000</peritem>
+    <total>0</total>
+    <recieve>15000</recieve>
+    <details>Cash</details>
+  </person>
+  <person id="590">
+    <date>29/01/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>21</qty>
+    <peritem>3000</peritem>
+    <total>63000</total>
+    <recieve>0</recieve>
+    <details>C-Pant</details>
+  </person>
+  <person id="591">
+    <date>29/01/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>8000</peritem>
+    <total>8000</total>
+    <recieve>0</recieve>
+    <details>Mix Dress</details>
+  </person>
+  <person id="592">
+    <date>29/01/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>4</qty>
+    <peritem>6000</peritem>
+    <total>24000</total>
+    <recieve>0</recieve>
+    <details>Shirt</details>
+  </person>
+  <person id="593">
+    <date>29/01/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>8000</peritem>
+    <total>8000</total>
+    <recieve>0</recieve>
+    <details>Asian Dress</details>
+  </person>
+  <person id="594">
+    <date>29/01/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1740</peritem>
+    <total>1740</total>
+    <recieve>0</recieve>
+    <details>Expence</details>
+  </person>
+  <person id="595">
+    <date>29/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3000</peritem>
+    <total>3000</total>
+    <recieve>0</recieve>
+    <details>CJP</details>
+  </person>
+  <person id="596">
+    <date>29/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>3000</peritem>
+    <total>6000</total>
+    <recieve>0</recieve>
+    <details>ATW</details>
+  </person>
+  <person id="597">
+    <date>29/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1000</peritem>
+    <total>1000</total>
+    <recieve>0</recieve>
+    <details>SWING</details>
+  </person>
+  <person id="598">
+    <date>29/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>20</qty>
+    <peritem>2500</peritem>
+    <total>50000</total>
+    <recieve>0</recieve>
+    <details>CARGO</details>
+  </person>
+  <person id="599">
+    <date>29/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>5000</peritem>
+    <total>10000</total>
+    <recieve>0</recieve>
+    <details>COTTON DRESS</details>
+  </person>
+  <person id="600">
+    <date>29/01/2018</date>
+    <name>JAWAD KABUL </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1720</peritem>
+    <total>1720</total>
+    <recieve>0</recieve>
+    <details>EXPENCE</details>
+  </person>
+  <person id="601">
+    <date>29/01/2018</date>
+    <name>Ali Kabul</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>24</qty>
+    <peritem>2000</peritem>
+    <total>48000</total>
+    <recieve>0</recieve>
+    <details>APP</details>
+  </person>
+  <person id="602">
+    <date>29/01/2018</date>
+    <name>Ali Kabul</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1680</peritem>
+    <total>1680</total>
+    <recieve>0</recieve>
+    <details>EXPENCE</details>
+  </person>
+  <person id="603">
+    <date>29/01/2018</date>
+    <name>AQEEL LIGHTHOUSE</name>
+    <company>Local</company>
+    <item>TB</item>
+    <qty>1</qty>
+    <peritem>10000</peritem>
+    <total>10000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="604">
+    <date>29/01/2018</date>
+    <name>AQEEL LIGHTHOUSE</name>
+    <company>IK</company>
+    <item>L-Bag</item>
+    <qty>2</qty>
+    <peritem>12000</peritem>
+    <total>24000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="605">
+    <date>29/01/2018</date>
+    <name>JAHANGIR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>49</qty>
+    <peritem>5000</peritem>
+    <total>245000</total>
+    <recieve>0</recieve>
+    <details>APP</details>
+  </person>
+  <person id="606">
+    <date>29/01/2018</date>
+    <name>JAHANGIR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>5000</peritem>
+    <total>5000</total>
+    <recieve>0</recieve>
+    <details>APP KOREA</details>
+  </person>
+  <person id="607">
+    <date>29/01/2018</date>
+    <name>JAHANGIR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>5000</peritem>
+    <total>5000</total>
+    <recieve>0</recieve>
+    <details>VVT</details>
+  </person>
+  <person id="608">
+    <date>29/01/2018</date>
+    <name>JAHANGIR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>3020</peritem>
+    <total>3020</total>
+    <recieve>0</recieve>
+    <details>EXPENCE</details>
+  </person>
+  <person id="609">
+    <date>30/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>20000</peritem>
+    <total>0</total>
+    <recieve>20000</recieve>
+    <details>AL HABIB</details>
+  </person>
+  <person id="610">
+    <date>29/01/2018</date>
+    <name>KHALID FAQEER COLONY</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>50000</total>
+    <recieve>0</recieve>
+    <details>CHQ Return </details>
+  </person>
+  <person id="611">
+    <date>29/01/2018</date>
+    <name>24 CASH </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>50000</total>
+    <recieve>0</recieve>
+    <details>CASH ATTULLAH SHAH </details>
+  </person>
+  <person id="612">
+    <date>30/01/2018</date>
+    <name>24 CASH </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>4400000</peritem>
+    <total>4400000</total>
+    <recieve>0</recieve>
+    <details>CASH ATTULLAH SHAH SHAH JEE</details>
+  </person>
+  <person id="613">
+    <date>30/01/2018</date>
+    <name>24 CASH </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>2500000</peritem>
+    <total>2500000</total>
+    <recieve>0</recieve>
+    <details>CASH TAYA ABU SHAHZAIN </details>
+  </person>
+  <person id="614">
+    <date>29/01/2018</date>
+    <name>NAZIR SADIR </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>CASH </details>
+  </person>
+  <person id="615">
+    <date>29/01/2018</date>
+    <name>NAZIR SADIR </name>
+    <company>AALI</company>
+    <item>
+    </item>
+    <qty>465</qty>
+    <peritem>150</peritem>
+    <total>69750</total>
+    <recieve>0</recieve>
+    <details>LHB BAG 20 BALES</details>
+  </person>
+  <person id="616">
+    <date>27/01/2018</date>
+    <name>AYUB KHAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>115000</peritem>
+    <total>0</total>
+    <recieve>115000</recieve>
+    <details>ALFALAH 15752959</details>
+  </person>
+  <person id="617">
+    <date>27/01/2018</date>
+    <name>AYUB KHAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>16000</peritem>
+    <total>16000</total>
+    <recieve>0</recieve>
+    <details>TRANSFER KFS COMPANY</details>
+  </person>
+  <person id="618">
+    <date>29/01/2018</date>
+    <name>M KHAN ZARDRAN </name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>10</qty>
+    <peritem>3500</peritem>
+    <total>35000</total>
+    <recieve>0</recieve>
+    <details>MTP</details>
+  </person>
+  <person id="619">
+    <date>29/01/2018</date>
+    <name>M KHAN ZARDRAN </name>
+    <company>Local</company>
+    <item>LPD</item>
+    <qty>3</qty>
+    <peritem>11000</peritem>
+    <total>33000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="620">
+    <date>30/01/2018</date>
+    <name>M KHAN ZARDRAN </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>51000</peritem>
+    <total>0</total>
+    <recieve>51000</recieve>
+    <details>CLAIM </details>
+  </person>
+  <person id="621">
+    <date>30/01/2018</date>
+    <name>SAQIB ZULFIQAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>46000</peritem>
+    <total>0</total>
+    <recieve>46000</recieve>
+    <details>Al Habib </details>
+  </person>
+  <person id="622">
+    <date>30/01/2018</date>
+    <name>IBRAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>AL HABIB </details>
+  </person>
+  <person id="623">
+    <date>30/01/2018</date>
+    <name>SADIQ DERA GHAZI KHAN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>175000</peritem>
+    <total>0</total>
+    <recieve>175000</recieve>
+    <details>ALFALAH BANK</details>
+  </person>
+  <person id="624">
+    <date>30/01/2018</date>
+    <name>RUSTAM LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>ALFALAH BANK</details>
+  </person>
+  <person id="625">
+    <date>30/01/2018</date>
+    <name>RASOOL MUHAMMAD</name>
+    <company>AALI</company>
+    <item>
+    </item>
+    <qty>798</qty>
+    <peritem>150</peritem>
+    <total>119700</total>
+    <recieve>0</recieve>
+    <details>LHB QNTY 34 </details>
+  </person>
+  <person id="626">
+    <date>31/01/2018</date>
+    <name>M ISMAIL</name>
+    <company>WCS</company>
+    <item>PLASTIC</item>
+    <qty>7141</qty>
+    <peritem>33</peritem>
+    <total>235653</total>
+    <recieve>0</recieve>
+    <details>5 gari 15 bales</details>
+  </person>
+  <person id="627">
+    <date>31/01/2018</date>
+    <name>SHAFIQ BALDIA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>21000</peritem>
+    <total>0</total>
+    <recieve>21000</recieve>
+    <details>CASH SHAH JEE</details>
+  </person>
+  <person id="628">
+    <date>29/01/2018</date>
+    <name>Ali Kabul</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>100</qty>
+    <peritem>1500</peritem>
+    <total>150000</total>
+    <recieve>0</recieve>
+    <details>MIX 80&amp;100 KG</details>
+  </person>
+  <person id="629">
+    <date>29/01/2018</date>
+    <name>Ali Kabul</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>102</qty>
+    <peritem>1500</peritem>
+    <total>153000</total>
+    <recieve>0</recieve>
+    <details>MIX 80&amp;100 KG </details>
+  </person>
+  <person id="630">
+    <date>29/01/2018</date>
+    <name>Ali Kabul</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>13</qty>
+    <peritem>1500</peritem>
+    <total>19500</total>
+    <recieve>0</recieve>
+    <details>MIX 80&amp;100</details>
+  </person>
+  <person id="631">
+    <date>29/01/2018</date>
+    <name>Ali Kabul</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>14</qty>
+    <peritem>3000</peritem>
+    <total>42000</total>
+    <recieve>0</recieve>
+    <details>T SHIRT 45 KG</details>
+  </person>
+  <person id="632">
+    <date>01/02/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>AL HABIB ONLINE</details>
+  </person>
+  <person id="633">
+    <date>01/02/2018</date>
+    <name>MURAAD CPT</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>250000</peritem>
+    <total>0</total>
+    <recieve>250000</recieve>
+    <details>CHQ 04363194</details>
+  </person>
+  <person id="634">
+    <date>01/02/2018</date>
+    <name>NAZIR SADIR </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>19750</peritem>
+    <total>0</total>
+    <recieve>19750</recieve>
+    <details>CASH </details>
+  </person>
+  <person id="635">
+    <date>01/02/2018</date>
+    <name>NAZIR SADIR </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>12000</peritem>
+    <total>0</total>
+    <recieve>12000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="636">
+    <date>01/02/2018</date>
+    <name>Cash Customer</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>88000</peritem>
+    <total>0</total>
+    <recieve>88000</recieve>
+    <details>CASH SHAHZAIN</details>
+  </person>
+  <person id="637">
+    <date>01/02/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>33000</peritem>
+    <total>0</total>
+    <recieve>33000</recieve>
+    <details>CASH </details>
+  </person>
+  <person id="638">
+    <date>01/02/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>50000</peritem>
+    <total>0</total>
+    <recieve>50000</recieve>
+    <details>CHQ 11243542</details>
+  </person>
+  <person id="639">
+    <date>01/02/2018</date>
+    <name>M ALI (M ASIF)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>33000</peritem>
+    <total>0</total>
+    <recieve>33000</recieve>
+    <details>CHQ 17269907</details>
+  </person>
+  <person id="640">
+    <date>01/02/2018</date>
+    <name>Jumma Muhammad (Saloo)</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>60000</peritem>
+    <total>0</total>
+    <recieve>60000</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="641">
+    <date>01/02/2018</date>
+    <name>TANVEER AHMED</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>200000</peritem>
+    <total>0</total>
+    <recieve>200000</recieve>
+    <details>CHQ 0778218</details>
+  </person>
+  <person id="642">
+    <date>01/02/2018</date>
+    <name>NAZIR SADIR </name>
+    <company>IK</company>
+    <item>L-Bag</item>
+    <qty>1</qty>
+    <peritem>12000</peritem>
+    <total>12000</total>
+    <recieve>0</recieve>
+    <details>CASH</details>
+  </person>
+  <person id="643">
+    <date>01/02/2018</date>
+    <name>Cash Customer</name>
+    <company>AALI</company>
+    <item>
+    </item>
+    <qty>200</qty>
+    <peritem>380</peritem>
+    <total>76000</total>
+    <recieve>0</recieve>
+    <details>SCHOOL BAG</details>
+  </person>
+  <person id="644">
+    <date>01/02/2018</date>
+    <name>Cash Customer</name>
+    <company>UHT</company>
+    <item>TB</item>
+    <qty>1</qty>
+    <peritem>12000</peritem>
+    <total>12000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="645">
+    <date>01/02/2018</date>
+    <name>SHAFIQ BALDIA</name>
+    <company>UHT</company>
+    <item>TB</item>
+    <qty>2</qty>
+    <peritem>11000</peritem>
+    <total>22000</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="646">
+    <date>01/02/2018</date>
+    <name>ZABIULLAH</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>33</qty>
+    <peritem>2000</peritem>
+    <total>66000</total>
+    <recieve>0</recieve>
+    <details>MASTAN</details>
+  </person>
+  <person id="647">
+    <date>01/02/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>5</qty>
+    <peritem>3000</peritem>
+    <total>15000</total>
+    <recieve>0</recieve>
+    <details>CTH 45 KG</details>
+  </person>
+  <person id="648">
+    <date>01/02/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>6</qty>
+    <peritem>3000</peritem>
+    <total>18000</total>
+    <recieve>0</recieve>
+    <details>NIGHTY 45 KG</details>
+  </person>
+  <person id="649">
+    <date>01/02/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>3500</peritem>
+    <total>7000</total>
+    <recieve>0</recieve>
+    <details>SPRING WERA</details>
+  </person>
+  <person id="650">
+    <date>01/02/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>2</qty>
+    <peritem>3500</peritem>
+    <total>7000</total>
+    <recieve>0</recieve>
+    <details>CWW 100 KG </details>
+  </person>
+  <person id="651">
+    <date>01/02/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>5000</peritem>
+    <total>5000</total>
+    <recieve>0</recieve>
+    <details>C PANTS 100 KG</details>
+  </person>
+  <person id="652">
+    <date>01/02/2018</date>
+    <name>DILAWAR LAHORE</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>830</peritem>
+    <total>830</total>
+    <recieve>0</recieve>
+    <details>KARCHA </details>
+  </person>
+  <person id="653">
+    <date>01/02/2018</date>
+    <name>KHALID FAQEER COLONY</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>21</qty>
+    <peritem>1800</peritem>
+    <total>37800</total>
+    <recieve>0</recieve>
+    <details>W SHIRTS 45 KG</details>
+  </person>
+  <person id="654">
+    <date>01/02/2018</date>
+    <name>KHALID FAQEER COLONY</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>47</qty>
+    <peritem>500</peritem>
+    <total>23500</total>
+    <recieve>0</recieve>
+    <details>MIX 100 KG</details>
+  </person>
+  <person id="655">
+    <date>01/02/2018</date>
+    <name>KHALID FAQEER COLONY</name>
+    <company>Local</company>
+    <item>
+    </item>
+    <qty>61</qty>
+    <peritem>300</peritem>
+    <total>18300</total>
+    <recieve>0</recieve>
+    <details>MIX 45 KG</details>
+  </person>
+  <person id="656">
+    <date>31/01/2018</date>
+    <name>FIDA HUSSAIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>100000</peritem>
+    <total>0</total>
+    <recieve>100000</recieve>
+    <details>RETURN  11619105 </details>
+  </person>
+  <person id="657">
+    <date>31/01/2018</date>
+    <name>FIDA HUSSAIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>70000</peritem>
+    <total>0</total>
+    <recieve>70000</recieve>
+    <details>MEEZAN R / 05866006</details>
+  </person>
+  <person id="658">
+    <date>31/01/2018</date>
+    <name>FIDA HUSSAIN</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>170000</peritem>
+    <total>170000</total>
+    <recieve>0</recieve>
+    <details>ALFALAH  SHAHZ 7552446 </details>
+  </person>
+  <person id="659">
+    <date>31/01/2018</date>
+    <name>SHERAZAM</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>275000</peritem>
+    <total>275000</total>
+    <recieve>0</recieve>
+    <details>SHAH JEE CHQ AL HABIB</details>
+  </person>
+  <person id="660">
+    <date>29/01/2018</date>
+    <name>ARIF AZIZ</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>1</qty>
+    <peritem>1000000</peritem>
+    <total>1000000</total>
+    <recieve>0</recieve>
+    <details>CASH &amp; CHQ</details>
+  </person>
+</all>

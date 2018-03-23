@@ -1,0 +1,840 @@
+<clients>
+  <Client name="Cash Customer">
+    <total>994090</total>
+    <recieve>994090</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="SAEED KHAN LAHORE">
+    <total>750</total>
+    <recieve>750</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB</des>
+  </Client>
+  <Client name="NAZEER BAHAWALPUR">
+    <total>416100</total>
+    <recieve>200000</recieve>
+    <cate>Bussiness</cate>
+    <des>PUNJAB
+</des>
+  </Client>
+  <Client name="IBRAR LAHORE">
+    <total>1822130</total>
+    <recieve>1303500</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+</des>
+  </Client>
+  <Client name="AAMIL BABA">
+    <total>6000</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI
+</des>
+  </Client>
+  <Client name="IMRAN LAHORE">
+    <total>86860</total>
+    <recieve>50000</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE
+ PUNJAB
+</des>
+  </Client>
+  <Client name="SHERAZAM">
+    <total>1667150</total>
+    <recieve>1737000</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI
+</des>
+  </Client>
+  <Client name="SHEIKH JAWAID LAHORE">
+    <total>41265</total>
+    <recieve>41250</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+
+</des>
+  </Client>
+  <Client name="BISMIALLAH JAN">
+    <total>1041</total>
+    <recieve>1041</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI
+</des>
+  </Client>
+  <Client name="ASHIQ LAHORE">
+    <total>373155</total>
+    <recieve>344500</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+
+</des>
+  </Client>
+  <Client name="SAQIB NAEEM LAHORE">
+    <total>36350</total>
+    <recieve>36350</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+
+
+</des>
+  </Client>
+  <Client name="TANVEER AHMED">
+    <total>799601</total>
+    <recieve>703500</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI
+</des>
+  </Client>
+  <Client name="GHAFOOR NOOR MUHAMMAD">
+    <total>15870</total>
+    <recieve>15870</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI
+
+</des>
+  </Client>
+  <Client name="GOHAR LAHORE">
+    <total>1254000</total>
+    <recieve>160000</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+</des>
+  </Client>
+  <Client name="ADIL LIGHT HOUSE">
+    <total>14000</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI
+</des>
+  </Client>
+  <Client name="SAEED KHAN PINDI">
+    <total>840600</total>
+    <recieve>639000</recieve>
+    <cate>Bussiness</cate>
+    <des>RAWALPINDI PUNJAB
+
+</des>
+  </Client>
+  <Client name="SIDDIQ LAHORE">
+    <total>180600</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+
+</des>
+  </Client>
+  <Client name="IDREES GILGIT">
+    <total>73115</total>
+    <recieve>70000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="ALLAH GUL">
+    <total>307376</total>
+    <recieve>208000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="RIAZ PINDI">
+    <total>365850</total>
+    <recieve>100000</recieve>
+    <cate>Bussiness</cate>
+    <des>RAWALPINDI PUNJAB
+
+</des>
+  </Client>
+  <Client name="KHALID PESHAWAR">
+    <total>6760</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>PESHAWAR
+</des>
+  </Client>
+  <Client name="AMJAD LAHORE">
+    <total>454270</total>
+    <recieve>100000</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+
+</des>
+  </Client>
+  <Client name="NADEEM YASEEN GUJRANWALA">
+    <total>536060</total>
+    <recieve>536060</recieve>
+    <cate>Bussiness</cate>
+    <des>PUNJAB
+</des>
+  </Client>
+  <Client name="MUHAMMAD RASOOL KHAN ">
+    <total>331350</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI
+</des>
+  </Client>
+  <Client name="SARWAR HANIF">
+    <total>187950</total>
+    <recieve>187950</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI
+
+</des>
+  </Client>
+  <Client name="SHAFIQ BALDIA">
+    <total>65800</total>
+    <recieve>41000</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI
+
+
+</des>
+  </Client>
+  <Client name="YOUNIS MEHSOOD">
+    <total>1623000</total>
+    <recieve>600000</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI
+
+
+
+</des>
+  </Client>
+  <Client name="SALEEM LAHORE">
+    <total>39720</total>
+    <recieve>16000</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+</des>
+  </Client>
+  <Client name="HAFIZ NAZIM LAHORE">
+    <total>11810</total>
+    <recieve>11810</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+
+</des>
+  </Client>
+  <Client name="BACHA KHAN LIGHT HOUSE">
+    <total>333000</total>
+    <recieve>200000</recieve>
+    <cate>Bussiness</cate>
+    <des>03222505094</des>
+  </Client>
+  <Client name="AQIB FAISALABAD">
+    <total>612280</total>
+    <recieve>100000</recieve>
+    <cate>Bussiness</cate>
+    <des>FAISALABAD PUNJAB
+
+</des>
+  </Client>
+  <Client name="SHAH ALAM JAGLOT">
+    <total>0</total>
+    <recieve>1000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="SADIQ DERA GHAZI KHAN">
+    <total>534000</total>
+    <recieve>325000</recieve>
+    <cate>Bussiness</cate>
+    <des>DERA GHAZI KHAN PUNJAB</des>
+  </Client>
+  <Client name="ASAD LAHORE">
+    <total>556005</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+
+</des>
+  </Client>
+  <Client name="AMAN SAHIWAL">
+    <total>3300</total>
+    <recieve>3300</recieve>
+    <cate>Bussiness</cate>
+    <des>SAHIWAL
+PUNJAB
+</des>
+  </Client>
+  <Client name="ZABIULLAH">
+    <total>298400</total>
+    <recieve>193000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="MURAAD CPT">
+    <total>526350</total>
+    <recieve>800000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="SHAHBAZ JARANWALA">
+    <total>1141290</total>
+    <recieve>430000</recieve>
+    <cate>Bussiness</cate>
+    <des>PUNJAB
+</des>
+  </Client>
+  <Client name="ASHIQ BOREWALA">
+    <total>195970</total>
+    <recieve>237500</recieve>
+    <cate>Bussiness</cate>
+    <des>PUNJAB
+</des>
+  </Client>
+  <Client name="FAZAL UR REHMAN">
+    <total>3830</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>FAISALABAD
+ PUNJAB</des>
+  </Client>
+  <Client name="ASLAM LAHORE">
+    <total>109470</total>
+    <recieve>40000</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+</des>
+  </Client>
+  <Client name="AHMED SALOO">
+    <total>348700</total>
+    <recieve>138000</recieve>
+    <cate>Bussiness</cate>
+    <des>03212235415</des>
+  </Client>
+  <Client name="KAMRAN MELSI">
+    <total>2000</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>PUNJAB
+</des>
+  </Client>
+  <Client name="MUHAMMAD SAJJID L8">
+    <total>5000</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="DILAWAR LAHORE">
+    <total>550110</total>
+    <recieve>250000</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+
+</des>
+  </Client>
+  <Client name="SHAKHI JAN HYDERABAD">
+    <total>4580</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>HYDERABAD
+</des>
+  </Client>
+  <Client name="NIAZ HALF COAT">
+    <total>0</total>
+    <recieve>5000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="WASEEM PINDI">
+    <total>96500</total>
+    <recieve>96500</recieve>
+    <cate>Bussiness</cate>
+    <des>RAWALPINDI PUNJAB
+</des>
+  </Client>
+  <Client name="NAWAZ KHAN ">
+    <total>100620</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="AYUB KHAN">
+    <total>114000</total>
+    <recieve>115000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="ISHAQ LAHORE">
+    <total>1123240</total>
+    <recieve>1000000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+
+LAHORE PUNJAB
+</des>
+  </Client>
+  <Client name="MEER BAAZ ">
+    <total>76600</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="DAWOOD BORI WALA">
+    <total>7000</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="AMIR LIGHT HOUSE">
+    <total>78000</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="SHAHZADI MUZAMMIL">
+    <total>129170</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="SULTAN">
+    <total>116625</total>
+    <recieve>90000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="SAJAWAL">
+    <total>15000</total>
+    <recieve>15000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="SYED KHALID SHAH">
+    <total>26600</total>
+    <recieve>20000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="WALI SHAH TOORI">
+    <total>377500</total>
+    <recieve>100000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="GUL BADIN">
+    <total>16500</total>
+    <recieve>16500</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="GHULAB SHAH">
+    <total>115000</total>
+    <recieve>115000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="HAQ NAWAZ KARACHI">
+    <total>374700</total>
+    <recieve>193800</recieve>
+    <cate>Bussiness</cate>
+    <des>
+KARACHI
+
+</des>
+  </Client>
+  <Client name="ADIL SAWATI">
+    <total>15400</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>031034764562</des>
+  </Client>
+  <Client name="SHER KHAN BANARAS">
+    <total>0</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="FAISAL HYDERABAD">
+    <total>9000</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>HYDERABAD
+
+</des>
+  </Client>
+  <Client name="HAQ NAWAZ PINDI">
+    <total>0</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>RAWALPINDI
+
+</des>
+  </Client>
+  <Client name="SARWAR SADDAR">
+    <total>13000</total>
+    <recieve>9000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="HADI MUFFLER">
+    <total>0</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="GHAFOOR METROVAIL">
+    <total>2000</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="ESSA KHAN">
+    <total>5000</total>
+    <recieve>5000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="JUNAID HUR CENTER">
+    <total>182500</total>
+    <recieve>182500</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="SAEED MEHSOOD">
+    <total>108500</total>
+    <recieve>50000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="TOTI KHAN">
+    <total>0</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="ZAHIR SHAH">
+    <total>243500</total>
+    <recieve>206000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="AQEEL LIGHTHOUSE">
+    <total>244100</total>
+    <recieve>75000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="SAQIB LAHORE">
+    <total>9150</total>
+    <recieve>9150</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+
+</des>
+  </Client>
+  <Client name="JAHANGIR LAHORE">
+    <total>477180</total>
+    <recieve>100000</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+
+
+</des>
+  </Client>
+  <Client name="FARHAN HONDA">
+    <total>50000</total>
+    <recieve>50000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="M SIDDIQ PINDI">
+    <total>70800</total>
+    <recieve>70000</recieve>
+    <cate>Bussiness</cate>
+    <des>RAWALPINDI</des>
+  </Client>
+  <Client name="AMJAD CPT">
+    <total>100000</total>
+    <recieve>100000</recieve>
+    <cate>Bussiness</cate>
+    <des>PESHAWAR</des>
+  </Client>
+  <Client name="SHEHZAD LAHORE">
+    <total>131100</total>
+    <recieve>65000</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB
+</des>
+  </Client>
+  <Client name="Haji Ahmed Khan Lahore">
+    <total>76700</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB 0321-9416031
+</des>
+  </Client>
+  <Client name="RUSTAM LAHORE">
+    <total>74520</total>
+    <recieve>50000</recieve>
+    <cate>Bussiness</cate>
+    <des>LAHORE PUNJAB</des>
+  </Client>
+  <Client name="NIAZ KHAN SOCKS">
+    <total>125000</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="ASIF RASHEED">
+    <total>336723</total>
+    <recieve>208000</recieve>
+    <cate>Bussiness</cate>
+    <des>03363702311</des>
+  </Client>
+  <Client name="LIAQUAT">
+    <total>27621</total>
+    <recieve>0</recieve>
+    <cate>Purchase</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="ARIF AZIZ">
+    <total>50940731</total>
+    <recieve>44091450</recieve>
+    <cate>Purchase</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="QAYYUM KAMRAN">
+    <total>1520000</total>
+    <recieve>1520000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="M ALI (M ASIF)">
+    <total>1363375</total>
+    <recieve>1266000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="MAJEED ATWN">
+    <total>157500</total>
+    <recieve>100000</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI</des>
+  </Client>
+  <Client name="FIDA HUSSAIN">
+    <total>2220881</total>
+    <recieve>680955</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI</des>
+  </Client>
+  <Client name="UMAIR BHAI">
+    <total>2</total>
+    <recieve>0</recieve>
+    <cate>Purchase</cate>
+    <des>KARACHI</des>
+  </Client>
+  <Client name="GULDRAZ LONG COAT">
+    <total>13000</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI</des>
+  </Client>
+  <Client name="BADSHAH SAMNA ">
+    <total>750000</total>
+    <recieve>1680000</recieve>
+    <cate>FRINAD</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="USMAN BHAI">
+    <total>3460000</total>
+    <recieve>2</recieve>
+    <cate>Purchase</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="FAROK JAPAN">
+    <total>2463380</total>
+    <recieve>1374000</recieve>
+    <cate>Purchase</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="ALI WALI ">
+    <total>1043800</total>
+    <recieve>1043200</recieve>
+    <cate>Purchase</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="M ISMAIL">
+    <total>634623</total>
+    <recieve>525000</recieve>
+    <cate>Bussiness</cate>
+    <des>03142227537</des>
+  </Client>
+  <Client name="ZAIN TRADERS">
+    <total>0</total>
+    <recieve>0</recieve>
+    <cate>SHAHZAIN</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="NABI ">
+    <total>52500</total>
+    <recieve>55100</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="SHEIKH SAEED PANDI">
+    <total>203500</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="M KHAN ZARDRAN ">
+    <total>537000</total>
+    <recieve>51000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="AHMED SHAH ">
+    <total>1400000</total>
+    <recieve>0</recieve>
+    <cate>B C</cate>
+    <des>LIGHT HOUES 03352252398
+</des>
+  </Client>
+  <Client name="JAWAD KABUL ">
+    <total>386780</total>
+    <recieve>82000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="KHARCHA">
+    <total>0</total>
+    <recieve>0</recieve>
+    <cate>SHAHZAIN</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="UBAID H COAT">
+    <total>117000</total>
+    <recieve>117000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="NAIK M SHAH JEE">
+    <total>1119000</total>
+    <recieve>619000</recieve>
+    <cate>FRINAD</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="AMEER ALI">
+    <total>221619</total>
+    <recieve>0</recieve>
+    <cate>Purchase</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="M NAIK ">
+    <total>927810</total>
+    <recieve>862000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="KHALID FAQEER COLONY">
+    <total>230600</total>
+    <recieve>150000</recieve>
+    <cate>Bussiness</cate>
+    <des>Karachi</des>
+  </Client>
+  <Client name="Habibullah (GULDAD)">
+    <total>21600</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>Karachi </des>
+  </Client>
+  <Client name="Jumma Muhammad (Saloo)">
+    <total>122500</total>
+    <recieve>60000</recieve>
+    <cate>Bussiness</cate>
+    <des>Karachi</des>
+  </Client>
+  <Client name="SAQIB ZULFIQAR LAHORE">
+    <total>46000</total>
+    <recieve>46000</recieve>
+    <cate>Bussiness</cate>
+    <des>
+    </des>
+  </Client>
+  <Client name="Ali Kabul">
+    <total>442560</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>Kabul
+</des>
+  </Client>
+  <Client name="24 CASH ">
+    <total>6950000</total>
+    <recieve>0</recieve>
+    <cate>SHAHZAIN</cate>
+    <des>SHAHZAIN SHAH
+</des>
+  </Client>
+  <Client name="ANWER BHAI BC">
+    <total>0</total>
+    <recieve>0</recieve>
+    <cate>B C</cate>
+    <des>03332179709
+</des>
+  </Client>
+  <Client name="NAZIR SADIR ">
+    <total>81750</total>
+    <recieve>81750</recieve>
+    <cate>Bussiness</cate>
+    <des>03063520092
+</des>
+  </Client>
+  <Client name="RASOOL MUHAMMAD">
+    <total>119700</total>
+    <recieve>0</recieve>
+    <cate>Bussiness</cate>
+    <des>KARACHI</des>
+  </Client>
+</clients>
