@@ -75,6 +75,8 @@
             // 
             // ValPer
             // 
+            this.ValPer.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.ValPer.DecimalPlaces = 2;
             this.ValPer.Location = new System.Drawing.Point(70, 43);
             this.ValPer.Maximum = new decimal(new int[] {
             999999,

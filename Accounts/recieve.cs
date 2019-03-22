@@ -89,8 +89,8 @@ namespace Accounts
                     XmlDocument docS = new XmlDocument();
                     docS.Load("stocks.dbs");
 
-                    Before = Convert.ToInt32(docS.SelectSingleNode("//company[@name='" + companyBox.Text + "']" + "//item[@name='" + itemBox.Text + "']").InnerText);
-                    After = Before + (int)valQty.Value;
+                    Before = Convert.ToDouble(docS.SelectSingleNode("//company[@name='" + companyBox.Text + "']" + "//item[@name='" + itemBox.Text + "']").InnerText);
+                    After = Before + (double)valQty.Value;
                     docS.SelectSingleNode("//company[@name='" + companyBox.Text + "']" + "//item[@name='" + itemBox.Text + "']").InnerText = After.ToString();
                     docS.Save("stocks.dbs");
                 }
@@ -327,8 +327,7 @@ namespace Accounts
 
         private void valQty_KeyDown(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Decimal)
-                e.SuppressKeyPress = true;
+           
         }
     }
 }

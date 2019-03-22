@@ -52,7 +52,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.prevBal = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.total_balance = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // listView1
@@ -82,7 +81,7 @@
             // columnHeader10
             // 
             this.columnHeader10.Text = "Particulars";
-            this.columnHeader10.Width = 371;
+            this.columnHeader10.Width = 163;
             // 
             // columnHeader7
             // 
@@ -94,7 +93,7 @@
             // 
             this.columnHeader8.Text = "Received";
             this.columnHeader8.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.columnHeader8.Width = 137;
+            this.columnHeader8.Width = 130;
             // 
             // columnHeader9
             // 
@@ -107,7 +106,7 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(16, 23);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(41, 15);
+            this.label4.Size = new System.Drawing.Size(48, 18);
             this.label4.TabIndex = 15;
             this.label4.Text = "Name";
             // 
@@ -117,7 +116,7 @@
             this.nameBox.FormattingEnabled = true;
             this.nameBox.Location = new System.Drawing.Point(64, 20);
             this.nameBox.Name = "nameBox";
-            this.nameBox.Size = new System.Drawing.Size(313, 23);
+            this.nameBox.Size = new System.Drawing.Size(313, 26);
             this.nameBox.Sorted = true;
             this.nameBox.TabIndex = 1;
             this.nameBox.SelectedIndexChanged += new System.EventHandler(this.nameBox_SelectedIndexChanged);
@@ -143,7 +142,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(604, 26);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(21, 15);
+            this.label2.Size = new System.Drawing.Size(26, 18);
             this.label2.TabIndex = 31;
             this.label2.Text = "To";
             // 
@@ -152,7 +151,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(392, 23);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(36, 15);
+            this.label1.Size = new System.Drawing.Size(44, 18);
             this.label1.TabIndex = 30;
             this.label1.Text = "From";
             // 
@@ -162,7 +161,7 @@
             this.dateTimeTo.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimeTo.Location = new System.Drawing.Point(633, 22);
             this.dateTimeTo.Name = "dateTimeTo";
-            this.dateTimeTo.Size = new System.Drawing.Size(166, 21);
+            this.dateTimeTo.Size = new System.Drawing.Size(166, 24);
             this.dateTimeTo.TabIndex = 3;
             // 
             // dateTimeFrom
@@ -171,7 +170,7 @@
             this.dateTimeFrom.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dateTimeFrom.Location = new System.Drawing.Point(432, 21);
             this.dateTimeFrom.Name = "dateTimeFrom";
-            this.dateTimeFrom.Size = new System.Drawing.Size(166, 21);
+            this.dateTimeFrom.Size = new System.Drawing.Size(166, 24);
             this.dateTimeFrom.TabIndex = 2;
             // 
             // printPreviewDialog1
@@ -196,7 +195,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(220, 443);
+            this.button4.Location = new System.Drawing.Point(824, 443);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(87, 27);
             this.button4.TabIndex = 33;
@@ -208,7 +207,7 @@
             // 
             this.total_Rec.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.total_Rec.ForeColor = System.Drawing.Color.MidnightBlue;
-            this.total_Rec.Location = new System.Drawing.Point(613, 443);
+            this.total_Rec.Location = new System.Drawing.Point(596, 443);
             this.total_Rec.Name = "total_Rec";
             this.total_Rec.Size = new System.Drawing.Size(113, 15);
             this.total_Rec.TabIndex = 42;
@@ -219,7 +218,7 @@
             // 
             this.total_crd.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.total_crd.ForeColor = System.Drawing.Color.MidnightBlue;
-            this.total_crd.Location = new System.Drawing.Point(488, 443);
+            this.total_crd.Location = new System.Drawing.Point(470, 443);
             this.total_crd.Name = "total_crd";
             this.total_crd.Size = new System.Drawing.Size(110, 15);
             this.total_crd.TabIndex = 41;
@@ -233,7 +232,7 @@
             this.label3.ForeColor = System.Drawing.Color.MidnightBlue;
             this.label3.Location = new System.Drawing.Point(374, 441);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(90, 15);
+            this.label3.Size = new System.Drawing.Size(107, 18);
             this.label3.TabIndex = 40;
             this.label3.Text = "Grand Total: ";
             // 
@@ -265,28 +264,16 @@
             this.label6.ForeColor = System.Drawing.Color.MidnightBlue;
             this.label6.Location = new System.Drawing.Point(604, 61);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(122, 15);
+            this.label6.Size = new System.Drawing.Size(144, 18);
             this.label6.TabIndex = 43;
             this.label6.Text = "Previous Balance:";
             // 
-            // total_balance
-            // 
-            this.total_balance.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.total_balance.ForeColor = System.Drawing.Color.MidnightBlue;
-            this.total_balance.Location = new System.Drawing.Point(766, 441);
-            this.total_balance.Name = "total_balance";
-            this.total_balance.Size = new System.Drawing.Size(113, 15);
-            this.total_balance.TabIndex = 45;
-            this.total_balance.Text = "0";
-            this.total_balance.TextAlign = System.Drawing.ContentAlignment.TopRight;
-            // 
             // Lesasure
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightBlue;
             this.ClientSize = new System.Drawing.Size(919, 481);
-            this.Controls.Add(this.total_balance);
             this.Controls.Add(this.prevBal);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.total_Rec);
@@ -344,6 +331,5 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label prevBal;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label total_balance;
     }
 }

@@ -27,8 +27,8 @@
 </des>
   </Client>
   <Client name="AAMIL BABA">
-    <total>6000</total>
-    <recieve>0</recieve>
+    <total>6005.5</total>
+    <recieve>25.75</recieve>
     <cate>Bussiness</cate>
     <des>KARACHI
 </des>
@@ -304,7 +304,7 @@ PUNJAB
 </des>
   </Client>
   <Client name="AHMED SALOO">
-    <total>348700</total>
+    <total>348701.5</total>
     <recieve>138000</recieve>
     <cate>Bussiness</cate>
     <des>03212235415</des>
@@ -812,7 +812,7 @@ KARACHI
   </Client>
   <Client name="24 CASH ">
     <total>6950000</total>
-    <recieve>0</recieve>
+    <recieve>55</recieve>
     <cate>SHAHZAIN</cate>
     <des>SHAHZAIN SHAH
 </des>

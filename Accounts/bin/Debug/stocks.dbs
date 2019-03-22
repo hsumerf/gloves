@@ -55,10 +55,11 @@
   <company name="RB">
     <item name="KTW">0</item>
     <item name="MBLK">0</item>
+    <item name="WBLK">0</item>
   </company>
   <company name="DBK">
     <item name="KTW">0</item>
-    <item name="APK">3</item>
+    <item name="APK">2.5</item>
     <item name="MSJW">1</item>
     <item name="MSJBLAK">0</item>
     <item name="CPK">1</item>
@@ -99,7 +100,7 @@
   </company>
   <company name="AT">
     <item name="Cvelv">0</item>
-    <item name="MOC">1</item>
+    <item name="MOC">0</item>
     <item name="MTS">0</item>
     <item name="HHR">1</item>
   </company>
@@ -123,7 +124,7 @@
   </company>
   <company name="Bravo">
     <item name="SBLK">2</item>
-    <item name="CTL">2</item>
+    <item name="CTL">1.8</item>
   </company>
   <company name="IK">
     <item name="TB">2</item>

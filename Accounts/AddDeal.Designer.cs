@@ -206,6 +206,7 @@
             // 
             // valQty
             // 
+            this.valQty.DecimalPlaces = 2;
             this.valQty.Location = new System.Drawing.Point(63, 66);
             this.valQty.Maximum = new decimal(new int[] {
             999999,
