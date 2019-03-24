@@ -7888,4 +7888,66 @@
     <recieve>0</recieve>
     <details>CASH &amp; CHQ</details>
   </person>
+  <person id="661">
+    <date>09/05/2018</date>
+    <name>AAMIL BABA</name>
+    <company>AT</company>
+    <item>MOC</item>
+    <qty>1</qty>
+    <peritem>2.5</peritem>
+    <total>2.5</total>
+    <recieve>0</recieve>
+    <details>rerer</details>
+  </person>
+  <person id="662">
+    <date>09/05/2018</date>
+    <name>AAMIL BABA</name>
+    <company>Bravo</company>
+    <item>CTL</item>
+    <qty>1.5</qty>
+    <peritem>2</peritem>
+    <total>3</total>
+    <recieve>0</recieve>
+    <details>2</details>
+  </person>
+  <person id="663">
+    <date>09/05/2018</date>
+    <name>AAMIL BABA</name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>2.5</qty>
+    <peritem>10.3</peritem>
+    <total>0</total>
+    <recieve>25.75</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="664">
+    <date>22/03/2019</date>
+    <name>AHMED SALOO</name>
+    <company>DBK</company>
+    <item>APK</item>
+    <qty>0.5</qty>
+    <peritem>3</peritem>
+    <total>1.5</total>
+    <recieve>0</recieve>
+    <details>
+    </details>
+  </person>
+  <person id="665">
+    <date>22/03/2019</date>
+    <name>24 CASH </name>
+    <company>
+    </company>
+    <item>
+    </item>
+    <qty>5.5</qty>
+    <peritem>10</peritem>
+    <total>0</total>
+    <recieve>55.0</recieve>
+    <details>
+    </details>
+  </person>
 </all>

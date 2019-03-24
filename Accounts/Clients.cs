@@ -64,9 +64,13 @@ namespace Accounts
                 return;
             }
             DialogResult dialogResult = MessageBox.Show("Are you sure you want to delete?", "Confrimation", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if (dialogResult == DialogResult.No)
+            if (dialogResult == DialogResult.Yes)
+            {
+            }
+            else if (dialogResult == DialogResult.No)
+            {
                 return;
-
+            }
             XmlDocument doc = new XmlDocument();
             doc.Load("clients.dbs");
             for (int i = 0; i < listView1.SelectedItems.Count; i++)

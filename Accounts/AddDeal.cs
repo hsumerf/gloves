@@ -28,7 +28,7 @@ namespace Accounts
                 return;
             }
             if (labelitems.Text !="")
-            if (valQty.Value > Convert.ToInt32 (labelitems.Text))
+            if (valQty.Value > Convert.ToDecimal (labelitems.Text))
             {
                 MessageBox.Show("Out of stock!","No stock",MessageBoxButtons.OK,MessageBoxIcon.Error);
                 return;
@@ -105,13 +105,13 @@ namespace Accounts
           
             try
             {
-                int Before;
-                int After;
+                double Before;
+                double After;
                 XmlDocument doc = new XmlDocument();
                 doc.Load("stocks.dbs");
 
-                Before = Convert.ToInt32(doc.SelectSingleNode("//company[@name='" + companyBox.Text + "']" + "//item[@name='" + itemBox.Text + "']").InnerText);
-                After = Before - (int)valQty.Value;
+                Before = Convert.ToDouble(doc.SelectSingleNode("//company[@name='" + companyBox.Text + "']" + "//item[@name='" + itemBox.Text + "']").InnerText);
+                After = Before - (double)valQty.Value;
                 doc.SelectSingleNode("//company[@name='" + companyBox.Text + "']" + "//item[@name='" + itemBox.Text + "']").InnerText = After.ToString();
                 doc.Save("stocks.dbs");
             }
@@ -222,8 +222,7 @@ namespace Accounts
 
         private void valQty_KeyDown(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Decimal)
-                e.SuppressKeyPress = true;
+          
         }
 
         private void ValPer_KeyDown(object sender, KeyEventArgs e)

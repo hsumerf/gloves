@@ -137,9 +137,9 @@ namespace Accounts
 
             MailMessage mail = new MailMessage();
             SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
-            mail.From = new MailAddress("samitraders2018@gmail.com");
+            mail.From = new MailAddress("vspproduct@gmail.com");
             mail.To.Add(textBox3.Text);
-            mail.Subject = "Sami Traders - Backup";
+            mail.Subject = "VSP-Product - Backup";
             mail.Body = DateTime.Now.ToString();
 
             System.Net.Mail.Attachment attachment;
@@ -147,7 +147,7 @@ namespace Accounts
             mail.Attachments.Add(attachment);
 
             SmtpServer.Port = 587;
-            SmtpServer.Credentials = new System.Net.NetworkCredential("samitraders2018@gmail.com", "sami2018");
+            SmtpServer.Credentials = new System.Net.NetworkCredential("vspproduct@gmail.com", "sktpak$$");
             SmtpServer.EnableSsl = true;
 
             SmtpServer.Send(mail);

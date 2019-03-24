@@ -28,7 +28,7 @@ namespace Accounts
             XmlDocument stockdoc = new XmlDocument();
             stockdoc.Load("stocks.dbs");
             string qtybefore = stockdoc.SelectSingleNode("//company[@name='" + stocks.comboBox1.Text + "']" + "//item[@name='" + itemLabel.Text + "']").InnerText;
-            string qtyafter = (Convert.ToInt32(qtybefore) + ValPer.Value).ToString();
+            string qtyafter = (Convert.ToDecimal(qtybefore) + ValPer.Value).ToString();
             stockdoc.SelectSingleNode("//company[@name='" + stocks.comboBox1.Text + "']" + "//item[@name='" + itemLabel.Text + "']").InnerText = qtyafter;
             stockdoc.Save("stocks.dbs");
             stocks.RefreshList();
@@ -51,8 +51,7 @@ namespace Accounts
 
         private void ValPer_KeyDown(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Decimal)
-                e.SuppressKeyPress = true;
+        
         }
     }
 }

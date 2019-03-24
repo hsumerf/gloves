@@ -52,7 +52,7 @@ namespace Accounts
 
             }
             prevBal.Text = (crd - recv).ToString();
-          
+
 
             FilterList = X.Element("all").Elements("person").Where
            (E => (E.Element("name").Value == nameBox.Text) &&
@@ -91,8 +91,7 @@ namespace Accounts
                 }
             }
             listView1.EndUpdate();
-            if (listView1.Items.Count > 0)
-                total_balance.Text = listView1.Items[listView1.Items.Count - 1].SubItems[4].Text;
+
 
             XmlDocument docC = new XmlDocument();
             docC.Load("clients.dbs");
@@ -129,18 +128,16 @@ namespace Accounts
             
             Font fbold = new Font("Arial", 8.25f, FontStyle.Bold);
             Font body = new Font("Arial", 8.25f, FontStyle.Regular);
-            StringFormat sf = new StringFormat();
-         //   sf.LineAlignment = StringAlignment.Center;
-            sf.Alignment = StringAlignment.Center;
-            e.Graphics.DrawString("VOHRA SAFTY PRODUCTS", new Font("Arial", 18, FontStyle.Bold),Brushes.Black, e.PageBounds.Width/2,20,sf);
-            e.Graphics.DrawString("Plot No. 151/2-D, C Road Street. No. 16, Bihar Colony,", new Font("Arial", 8, FontStyle.Regular), Brushes.Black, e.PageBounds.Width / 2, 49, sf);
-            e.Graphics.DrawString("Karachi, Pakistan.", new Font("Arial", 8, FontStyle.Regular), Brushes.Black, e.PageBounds.Width / 2, 62, sf);
-            e.Graphics.DrawString("Cell: 92 3202308750", new Font("Arial", 8, FontStyle.Regular), Brushes.Black, e.PageBounds.Width / 2, 77, sf);
-            e.Graphics.DrawString("info@vohrasafetyproduct", new Font("Arial", 8, FontStyle.Regular), Brushes.Black, e.PageBounds.Width / 2, 92, sf);
-            e.Graphics.DrawString("www.vohrasafetyproduct.com", new Font("Arial", 8, FontStyle.Regular), Brushes.Black, e.PageBounds.Width / 2, 105, sf);
+
+            e.Graphics.DrawString("VOHRA SAFTY PRODUCTS", new Font("Arial", 15, FontStyle.Bold),Brushes.Black, 280, 35);
+            e.Graphics.DrawString("Plot No. 151/2-D, C Road Street. No. 16, Bihar Colony, Karachi, Pakistan.", new Font("Arial", 7, FontStyle.Regular), Brushes.Black, 250, 61);
+            e.Graphics.DrawString("Cell: 92 3202308750", new Font("Arial", 7, FontStyle.Regular), Brushes.Black, 365, 77);
+            e.Graphics.DrawString("info@vohrasafetyproduct", new Font("Arial", 7, FontStyle.Regular), Brushes.Black, 358, 92);
+            e.Graphics.DrawString("www.vohrasafetyproduct.com", new Font("Arial", 7, FontStyle.Regular), Brushes.Black, 345, 105);
+
 
             e.Graphics.DrawString(DateTime.Now.ToLongDateString(), new Font("Arial", 8, FontStyle.Regular), Brushes.Black, 30, 45);
-            e.Graphics.DrawString(DateTime.Now.ToLongTimeString(), new Font("Arial", 8, FontStyle.Regular), Brushes.Black, 30, 63);
+            e.Graphics.DrawString(DateTime.Now.ToLongTimeString(), new Font("Arial", 8, FontStyle.Regular), Brushes.Black, 30, 62);
             e.Graphics.DrawString("Page: "+currentpage.ToString(), new Font("Arial", 8, FontStyle.Regular), Brushes.Black, 750, 45);
 
             e.Graphics.DrawString(nameBox.Text, new Font("Arial", 9.5f, FontStyle.Bold), Brushes.Black, 30, 105);
